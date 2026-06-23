@@ -126,7 +126,7 @@ void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
     Tableau<Tableau<std::string>> resultats;
     combinaison(films, nbsalles, current, resultats);
     
-    cout << plusieursSallesCinema(films, clients, resultats) << endl;
+    cout << plusieursSallesCinema(films, clients, resultats);
   }
 }
 
