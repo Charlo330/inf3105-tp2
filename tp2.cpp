@@ -51,6 +51,13 @@ void lire(std::istream &entree, Tableau<std::string> &films,
   }
 }
 
+/**
+ * Détermine le film qui satisfait le plus grand nombre de clients.
+ *
+ * @param films Le tableau des films disponibles.
+ * @param clients Le tableau des clients et de leurs préférences.
+ * @return Le film qui maximise le nombre de clients satisfaits.
+ */
 std::string uneSalleCinema(const Tableau<std::string> &films,
                            const Tableau<Client> &clients) {
 
@@ -78,7 +85,7 @@ std::string uneSalleCinema(const Tableau<std::string> &films,
  * @param films Le tableau de tous les films disponibles.
  * @param clients Le tableau des clients et de leurs préférences.
  * @param combinaisonsFilms Le tableau contenant les combinaisons de films à évaluer.
- * @return La combinaison de films qui maximise le nombre de clients satisfaits.
+ * @return La combinaison de films qui maximise le nombre de clients satisfaits ainsi que le nombre de clients satisfaits.
  */
 std::string
 plusieursSallesCinema(const Tableau<std::string> &films,
