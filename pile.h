@@ -79,10 +79,11 @@ template <class T>
 T Pile<T>::depiler() {
   assert(sommet);
 
-  Cellule c(*sommet);
+  T contenu = sommet->contenu;
+  Cellule* suivante = sommet->suivante;
   delete sommet;
-  sommet = c.suivante;
-  return c.contenu;
+  sommet = suivante;
+  return contenu;
 }
 
 template <class T>

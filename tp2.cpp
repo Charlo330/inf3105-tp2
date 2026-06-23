@@ -1,6 +1,5 @@
 /* INF3105 / TP2 */
 #include "client.h"
-#include "pile.h"
 #include "tableau.h"
 #include <fstream>
 #include <iostream>
@@ -8,16 +7,16 @@
 using namespace std;
 
 void combinaison(const Tableau<std::string> &tableau, unsigned int k,
-                 Pile<std::string> &current,
-                 Tableau<Pile<std::string>> &resultats, unsigned int pos = 0) {
+                 Tableau<std::string> &current,
+                 Tableau<Tableau<std::string>> &resultats, unsigned int pos = 0) {
   if (k == 0) {
     resultats.ajouter(current);
     return;
   }
   for (int i = pos; i < tableau.taille(); i++) {
-    current.empiler(tableau[i]);
+    current.ajouter(tableau[i]);
     combinaison(tableau, k - 1, current, resultats, i + 1);
-    current.depiler();
+    current.enlever(current.taille() - 1);
   }
 }
 
@@ -74,7 +73,7 @@ std::string uneSalleCinema(const Tableau<std::string> &films,
 std::string
 plusieursSallesCinema(const Tableau<std::string> &films,
                       Tableau<Client> &clients,
-                      Tableau<Pile<std::string>> &combinaisonsFilms) {
+                      Tableau<Tableau<std::string>> &combinaisonsFilms) {
   int nbMaxSatisfait = -1;
   std::string stringCombinaisonFilmMaximise;
   std::string stringCombinaisonFilm;
@@ -88,9 +87,8 @@ plusieursSallesCinema(const Tableau<std::string> &films,
     }
     
     int nbSatisfait = 0;
-    std::string film;
-    while (!combinaisonsFilms[i].vide()) {
-      combinaisonsFilms[i].depiler(film);
+    for (int k = 0; k < combinaisonsFilms[i].taille(); k++) {
+      std::string film = combinaisonsFilms[i][k];
       stringCombinaisonFilm += film + " ";
       for (int j = 0; j < clients.taille(); j++) {
         if (!clients[j].estSatisfait && clients[j].veutEcouterFilm(film)) {
@@ -117,9 +115,10 @@ void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
   if (nbsalles == 1) {
     std::cout << uneSalleCinema(films, clients);
   } else {
-    Pile<std::string> current;
-    Tableau<Pile<std::string>> resultats;
+    Tableau<std::string> current;
+    Tableau<Tableau<std::string>> resultats;
     combinaison(films, nbsalles, current, resultats);
+    
     cout << plusieursSallesCinema(films, clients, resultats) << endl;
   }
 }
