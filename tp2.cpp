@@ -94,11 +94,10 @@ plusieursSallesCinema(const Tableau<std::string> &films,
   int nbMaxSatisfait = -1;
   std::string stringCombinaisonFilmMaximise;
   std::string stringCombinaisonFilm;
-  // pour chaque film de combinaison
+
   int nombreCombinaisons = combinaisonsFilms.taille();
 
   for (int i = 0; i < nombreCombinaisons; i++) {
-    // Reinitialiser l'état des clients
     for (int j = 0; j < clients.taille(); j++) {
       clients[j].estSatisfait = false;
     }
