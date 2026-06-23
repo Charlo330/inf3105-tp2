@@ -98,7 +98,7 @@ plusieursSallesCinema(const Tableau<std::string> &films,
   int nombreCombinaisons = combinaisonsFilms.taille();
 
   for (int i = 0; i < nombreCombinaisons; i++) {
-    // Réinitialiser l'état des clients avant chaque évaluation
+    // Réinitialiser l'état des clients
     for (int j = 0; j < clients.taille(); j++) {
       clients[j].estSatisfait = false;
     }
