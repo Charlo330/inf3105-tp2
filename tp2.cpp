@@ -82,6 +82,11 @@ plusieursSallesCinema(const Tableau<std::string> &films,
   int nombreCombinaisons = combinaisonsFilms.taille();
 
   for (int i = 0; i < nombreCombinaisons; i++) {
+    // Réinitialiser l'état des clients avant chaque évaluation
+    for (int j = 0; j < clients.taille(); j++) {
+      clients[j].estSatisfait = false;
+    }
+    
     int nbSatisfait = 0;
     std::string film;
     while (!combinaisonsFilms[i].vide()) {
@@ -98,6 +103,7 @@ plusieursSallesCinema(const Tableau<std::string> &films,
       nbMaxSatisfait = nbSatisfait;
       stringCombinaisonFilmMaximise = stringCombinaisonFilm;
     }
+    stringCombinaisonFilm = "";
   }
   return stringCombinaisonFilmMaximise;
 }
