@@ -109,7 +109,7 @@ plusieursSallesCinema(const Tableau<std::string> &films,
     }
     if (nbSatisfait > nbMaxSatisfait) {
       nbMaxSatisfait = nbSatisfait;
-      stringCombinaisonFilmMaximise = stringCombinaisonFilm + std::to_string(nbSatisfait) + "\n";
+      stringCombinaisonFilmMaximise = stringCombinaisonFilm + std::to_string(nbSatisfait);
     }
     stringCombinaisonFilm = "";
   }
