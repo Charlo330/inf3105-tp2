@@ -6,6 +6,15 @@
 
 using namespace std;
 
+/**
+ * Génère récursivement toutes les combinaisons de k éléments du tableau.
+ *
+ * @param tableau Le tableau contenant les éléments à combiner.
+ * @param k Le nombre d'éléments restant à ajouter à la combinaison courante.
+ * @param current La combinaison en cours de construction.
+ * @param resultats Le tableau dans lequel sont enregistrées les combinaisons générées.
+ * @param pos L'indice à partir duquel les prochains éléments peuvent être sélectionnés.
+ */
 void combinaison(const Tableau<std::string> &tableau, unsigned int k,
                  Tableau<std::string> &current,
                  Tableau<Tableau<std::string>> &resultats, unsigned int pos = 0) {
@@ -63,6 +72,14 @@ std::string uneSalleCinema(const Tableau<std::string> &films,
   return choixFilm;
 }
 
+/**
+ * Détermine la combinaison de films qui satisfait le plus grand nombre de clients.
+ *
+ * @param films Le tableau de tous les films disponibles.
+ * @param clients Le tableau des clients et de leurs préférences.
+ * @param combinaisonsFilms Le tableau contenant les combinaisons de films à évaluer.
+ * @return La combinaison de films qui maximise le nombre de clients satisfaits.
+ */
 std::string
 plusieursSallesCinema(const Tableau<std::string> &films,
                       Tableau<Client> &clients,
@@ -82,7 +99,7 @@ plusieursSallesCinema(const Tableau<std::string> &films,
     int nbSatisfait = 0;
     for (int k = 0; k < combinaisonsFilms[i].taille(); k++) {
       std::string film = combinaisonsFilms[i][k];
-      stringCombinaisonFilm += film + " ";
+      stringCombinaisonFilm += film + "\n";
       for (int j = 0; j < clients.taille(); j++) {
         if (!clients[j].estSatisfait && clients[j].veutEcouterFilm(film)) {
           nbSatisfait++;
@@ -92,7 +109,7 @@ plusieursSallesCinema(const Tableau<std::string> &films,
     }
     if (nbSatisfait > nbMaxSatisfait) {
       nbMaxSatisfait = nbSatisfait;
-      stringCombinaisonFilmMaximise = stringCombinaisonFilm;
+      stringCombinaisonFilmMaximise = stringCombinaisonFilm + std::to_string(nbSatisfait) + "\n";
     }
     stringCombinaisonFilm = "";
   }
