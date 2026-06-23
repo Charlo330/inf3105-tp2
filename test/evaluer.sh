@@ -71,7 +71,7 @@ fi
 # Fixer les limites : 180s, 1024Mo mémoire et 5ko fichier
 ulimit -t 180 -v 1048576 -f 10
 #echo "Limites courantes des ressources (avec ulimit) :"
-#ulimit -t -v -f
+ulimit -t -v -f
 #echo "-----"
 
 # Détection du CPU
