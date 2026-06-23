@@ -1,0 +1,10 @@
+Date: 20260622_201313
+#CPU :?
+#Date début : 20260622_201313
+#Limite de 180 secondes par test
+
+
+Fichier_Test	Salles	Vérif	CPU	Mém.(k)
+cinema00.txt	1	?	0.00
+cinema00.txt	2	?	0.00
+cinema00.txt	3	?	0.00
