@@ -40,13 +40,6 @@ void lire(std::istream &entree, Tableau<std::string> &films,
     entree >> c;
     clients.ajouter(c);
   }
-
-  // Lecture terminée.
-  /*
-  std::cerr << "Lecture terminée" << std::endl;
-  std::cerr << "Nombre de films: " << nbDeFilms << " : ";
-  std::cerr << "Nombre de clients: " << nbDeClients << std::endl;
-  */
 }
 
 std::string uneSalleCinema(const Tableau<std::string> &films,
@@ -109,9 +102,6 @@ plusieursSallesCinema(const Tableau<std::string> &films,
 void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
          int nbsalles = 2) {
 
-  // Pour commencer, supportez une seule salle de cinéma station.
-  // Ensuite, améliorez votre programme pour 2.
-  // Ensuite, généralisez à n.
   if (nbsalles == 1) {
     std::cout << uneSalleCinema(films, clients);
   } else {
