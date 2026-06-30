@@ -91,66 +91,33 @@ std::string
 plusieursSallesCinema(const Tableau<std::string> &films,
                       Tableau<Client> &clients,
                       Tableau<Tableau<std::string>> &combinaisonsFilms) {
-  const int nbFilms = films.taille();
-  const int nbClients = clients.taille();
-  const int nbCombinaisons = combinaisonsFilms.taille();
-
-  // --- Optimisation 1: Précalculer la matrice client-film ---
-  // clientVeutFilm[c][f] = true si client c veut voir film f
-  Tableau<Tableau<bool>> clientVeutFilm(nbClients);
-  for (int c = 0; c < nbClients; ++c) {
-    Tableau<bool> ligne(nbFilms);
-    for (int f = 0; f < nbFilms; ++f) {
-      ligne[f] = clients[c].veutEcouterFilm(films[f]);
-    }
-    clientVeutFilm.ajouter(ligne);
-  }
-
-  // --- Optimisation 2: Compteur de version au lieu de reset O(nbClients) ---
-  Tableau<int> clientVersion(nbClients);
-  for (int c = 0; c < nbClients; ++c) {
-    clientVersion.ajouter(0);
-  }
-  int currentVersion = 0;
-
   int nbMaxSatisfait = -1;
   std::string stringCombinaisonFilmMaximise;
   std::string stringCombinaisonFilm;
 
-  for (int i = 0; i < nbCombinaisons; ++i) {
-    ++currentVersion;  // O(1) reset pour toute la combinaison
+  int nombreCombinaisons = combinaisonsFilms.taille();
+
+  for (int i = 0; i < nombreCombinaisons; i++) {
+    for (int j = 0; j < clients.taille(); j++) {
+      clients[j].estSatisfait = false;
+    }
+    
     int nbSatisfait = 0;
-
-    for (int k = 0; k < combinaisonsFilms[i].taille(); ++k) {
-      const std::string &film = combinaisonsFilms[i][k];
+    for (int k = 0; k < combinaisonsFilms[i].taille(); k++) {
+      std::string film = combinaisonsFilms[i][k];
       stringCombinaisonFilm += film + "\n";
-
-      // Recherche linéaire de l'index du film (une fois par film par combinaison)
-      int filmIdx = -1;
-      for (int f = 0; f < nbFilms; ++f) {
-        if (films[f] == film) {
-          filmIdx = f;
-          break;
-        }
-      }
-      if (filmIdx == -1) continue;
-
-      // Parcours clients - lookup O(1) dans la matrice précalculée
-      for (int c = 0; c < nbClients; ++c) {
-        if (clientVersion[c] != currentVersion && clientVeutFilm[c][filmIdx]) {
-          ++nbSatisfait;
-          clientVersion[c] = currentVersion;
+      for (int j = 0; j < clients.taille(); j++) {
+        if (!clients[j].estSatisfait && clients[j].veutEcouterFilm(film)) {
+          nbSatisfait++;
+          clients[j].estSatisfait = true;
         }
       }
     }
-
-    // --- Optimisation 3: Early exit si tous clients satisfaits ---
     if (nbSatisfait > nbMaxSatisfait) {
       nbMaxSatisfait = nbSatisfait;
       stringCombinaisonFilmMaximise = stringCombinaisonFilm + std::to_string(nbSatisfait);
-      if (nbMaxSatisfait == nbClients) break;  // Impossible de faire mieux
     }
-    stringCombinaisonFilm.clear();
+    stringCombinaisonFilm = "";
   }
   return stringCombinaisonFilmMaximise;
 }

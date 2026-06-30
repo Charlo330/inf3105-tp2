@@ -1,27 +1,15 @@
-Date: 20260630_091743
+Date: 20260630_085730
 #CPU :?
-#Date début : 20260630_091743
+#Date début : 20260630_085730
 #Limite de 180 secondes par test
 
 
 Fichier_Test	Salles	Vérif	CPU	Mém.(k)
-cinema00.txt	1	OK	0.00
-cinema00.txt	2	Echec	0.00
-cinema00.txt	3	Echec	0.00
-cinema01.txt	1	OK	0.00
-cinema01.txt	2	Echec	0.00
-cinema01.txt	3	Echec	0.04
-cinema02.txt	1	OK	0.01
-cinema02.txt	2	Echec	0.00
-cinema02.txt	3	OK	0.05
-cinema03.txt	1	?	0.00
-cinema03.txt	2	?	0.00
-cinema03.txt	3	?	0.05
-cinema04.txt	1	?	0.08
-cinema04.txt	2	?	0.02
-cinema04.txt	3	?	0.06
-cinema05.txt	1	?	0.14
-cinema05.txt	2	?	0.02
-cinema05.txt	3	?	5.56
-cinema06.txt	1	?	0.01
-cinema06.txt	2	?	0.09
+cinema00.txt	1	?	0.00
+cinema00.txt	2	?	0.00
+cinema00.txt	3	?	0.00
+cinema01.txt	1	?	0.00
+cinema01.txt	2	?	0.10
+cinema01.txt	3	?	4.91
+cinema02.txt	1	?	0.01
+cinema02.txt	2	?	1.11
