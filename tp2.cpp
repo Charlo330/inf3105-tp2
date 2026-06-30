@@ -91,7 +91,6 @@ plusieursSallesCinema(Tableau<Client> &clients,
     }
   }
   return Tuple<std::string, int>(stringCombinaisonFilm, nbSatisfait);
-
 }
 
 /**
@@ -113,6 +112,7 @@ void combinaison(const Tableau<std::string> &tableau, unsigned int k,
     if (tuple.getJ() > combinaisonMax.getJ()) {
       combinaisonMax = tuple;
     }
+    return;
   }
   for (int i = pos; i < tableau.taille(); i++) {
     current.ajouter(tableau[i]);
@@ -132,6 +132,7 @@ void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
     Tableau<std::string> current;
     Tuple<std::string, int> tuple("", -1);
     combinaison(films, nbsalles, current, clients, tuple);
+    cout << tuple.getI();
   }
 }
 
