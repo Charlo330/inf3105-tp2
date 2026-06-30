@@ -74,24 +74,24 @@ plusieursSallesCinema(Tableau<Client> &clients,
   std::string stringCombinaisonFilm;
   int nbSatisfait = 0;
 
-  for (int i = 0; i < nombreCombinaisons; i++) {
-    for (int j = 0; j < clients.taille(); j++) {
-      clients[j].estSatisfait = false;
-    }
+  // Reset all clients' satisfaction status once
+  for (int j = 0; j < clients.taille(); j++) {
+    clients[j].estSatisfait = false;
+  }
 
-    for (int k = 0; k < nombreCombinaisons; k++) {
-      film = combinaisonFilms[k];
-      stringCombinaisonFilm += film + "\n";
-      for (int j = 0; j < clients.taille(); j++) {
-        if (!clients[j].estSatisfait && clients[j].veutEcouterFilm(film)) {
-          nbSatisfait++;
-          clients[j].estSatisfait = true;
-        }
+  // Process each film in the combination once
+  for (int k = 0; k < nombreCombinaisons; k++) {
+    film = combinaisonFilms[k];
+    stringCombinaisonFilm += film + "\n";
+    for (int j = 0; j < clients.taille(); j++) {
+      if (!clients[j].estSatisfait && clients[j].veutEcouterFilm(film)) {
+        nbSatisfait++;
+        clients[j].estSatisfait = true;
       }
     }
   }
   return Tuple<std::string, int>(stringCombinaisonFilm, nbSatisfait);
-  
+
 }
 
 /**
