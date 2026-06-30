@@ -1,33 +1,11 @@
 /* INF3105 / TP2 */
 #include "client.h"
 #include "tableau.h"
+#include "tuple.h"
 #include <fstream>
 #include <iostream>
 
 using namespace std;
-
-/**
- * Génère récursivement toutes les combinaisons de k éléments du tableau.
- *
- * @param tableau Le tableau contenant les éléments à combiner.
- * @param k Le nombre d'éléments restant à ajouter à la combinaison courante.
- * @param current La combinaison en cours de construction.
- * @param resultats Le tableau dans lequel sont enregistrées les combinaisons générées.
- * @param pos L'indice à partir duquel les prochains éléments peuvent être sélectionnés.
- */
-void combinaison(const Tableau<std::string> &tableau, unsigned int k,
-                 Tableau<std::string> &current,
-                 Tableau<Tableau<std::string>> &resultats, unsigned int pos = 0) {
-  if (k == 0) {
-    resultats.ajouter(current);
-    return;
-  }
-  for (int i = pos; i < tableau.taille(); i++) {
-    current.ajouter(tableau[i]);
-    combinaison(tableau, k - 1, current, resultats, i + 1);
-    current.enlever(current.taille() - 1);
-  }
-}
 
 void lire(std::istream &entree, Tableau<std::string> &films,
           Tableau<Client> &clients) {
@@ -87,24 +65,22 @@ std::string uneSalleCinema(const Tableau<std::string> &films,
  * @param combinaisonsFilms Le tableau contenant les combinaisons de films à évaluer.
  * @return La combinaison de films qui maximise le nombre de clients satisfaits ainsi que le nombre de clients satisfaits.
  */
-std::string
-plusieursSallesCinema(const Tableau<std::string> &films,
-                      Tableau<Client> &clients,
-                      Tableau<Tableau<std::string>> &combinaisonsFilms) {
-  int nbMaxSatisfait = -1;
-  std::string stringCombinaisonFilmMaximise;
-  std::string stringCombinaisonFilm;
+Tuple<std::string, int>
+plusieursSallesCinema(Tableau<Client> &clients,
+                      Tableau<std::string> &combinaisonFilms) {
+  std::string film;
 
-  int nombreCombinaisons = combinaisonsFilms.taille();
+  int nombreCombinaisons = combinaisonFilms.taille();
+  std::string stringCombinaisonFilm;
+  int nbSatisfait = 0;
 
   for (int i = 0; i < nombreCombinaisons; i++) {
     for (int j = 0; j < clients.taille(); j++) {
       clients[j].estSatisfait = false;
     }
-    
-    int nbSatisfait = 0;
-    for (int k = 0; k < combinaisonsFilms[i].taille(); k++) {
-      std::string film = combinaisonsFilms[i][k];
+
+    for (int k = 0; k < nombreCombinaisons; k++) {
+      film = combinaisonFilms[k];
       stringCombinaisonFilm += film + "\n";
       for (int j = 0; j < clients.taille(); j++) {
         if (!clients[j].estSatisfait && clients[j].veutEcouterFilm(film)) {
@@ -113,13 +89,38 @@ plusieursSallesCinema(const Tableau<std::string> &films,
         }
       }
     }
-    if (nbSatisfait > nbMaxSatisfait) {
-      nbMaxSatisfait = nbSatisfait;
-      stringCombinaisonFilmMaximise = stringCombinaisonFilm + std::to_string(nbSatisfait);
-    }
-    stringCombinaisonFilm = "";
   }
-  return stringCombinaisonFilmMaximise;
+  return Tuple<std::string, int>(stringCombinaisonFilm, nbSatisfait);
+  
+}
+
+/**
+ * Génère récursivement toutes les combinaisons de k éléments du tableau.
+ *
+ * @param tableau Le tableau contenant les éléments à combiner.
+ * @param k Le nombre d'éléments restant à ajouter à la combinaison courante.
+ * @param current La combinaison en cours de construction.
+ * @param resultats Le tableau dans lequel sont enregistrées les combinaisons générées.
+ * @param pos L'indice à partir duquel les prochains éléments peuvent être sélectionnés.
+ */
+void combinaison(const Tableau<std::string> &tableau, unsigned int k,
+                 Tableau<std::string> &current, Tableau<Client> &clients,
+                Tuple<std::string, int> &combinaisonMax, unsigned int pos = 0) {
+  
+  Tuple<std::string, int> tuple;
+  if (k == 0) {
+    tuple = plusieursSallesCinema(clients, current);
+    if (tuple.getJ() > combinaisonMax.getJ()) {
+      combinaisonMax = tuple;
+    }
+  }
+  for (int i = pos; i < tableau.taille(); i++) {
+    current.ajouter(tableau[i]);
+    combinaison(tableau, k - 1, current, clients, combinaisonMax, i + 1);
+    if (tuple.getJ() > combinaisonMax.getJ())
+      combinaisonMax = tuple;
+    current.enlever(current.taille() - 1);
+  }
 }
 
 void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
@@ -129,10 +130,8 @@ void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
     std::cout << uneSalleCinema(films, clients);
   } else {
     Tableau<std::string> current;
-    Tableau<Tableau<std::string>> resultats;
-    combinaison(films, nbsalles, current, resultats);
-    
-    cout << plusieursSallesCinema(films, clients, resultats);
+    Tuple<std::string, int> tuple("", -1);
+    combinaison(films, nbsalles, current, clients, tuple);
   }
 }
 

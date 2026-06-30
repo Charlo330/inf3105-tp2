@@ -1,6 +1,6 @@
-Date: 20260630_085730
+Date: 20260630_113859
 #CPU :?
-#Date début : 20260630_085730
+#Date début : 20260630_113859
 #Limite de 180 secondes par test
 
 
@@ -9,7 +9,3 @@ cinema00.txt	1	?	0.00
 cinema00.txt	2	?	0.00
 cinema00.txt	3	?	0.00
 cinema01.txt	1	?	0.00
-cinema01.txt	2	?	0.10
-cinema01.txt	3	?	4.91
-cinema02.txt	1	?	0.01
-cinema02.txt	2	?	1.11

@@ -40,7 +40,6 @@ class Tableau{
     bool           operator== (const Tableau<T>& autre) const;
 
   private:
-    struct         ElementIndexe;
     T*             elements;
     int            nbElements;
     int            capacite;
@@ -50,12 +49,6 @@ class Tableau{
 // En C++, les définitions sont habituellement dans des fichiers sources .cpp.
 // Les classes "template" sont souvent une exception à cette règle.
 // Ces modèles devant être instanciés, on les mets dans un fichier .h.
-
-template <class T>
-struct Tableau<T>::ElementIndexe {
-    T valeur;
-    int indexOriginal;
-};
 
 template <class T>
 Tableau<T>::Tableau(int capacite_initiale): nbElements(0), capacite(capacite_initiale){
