@@ -1,0 +1,1102 @@
+100
+Nope
+Caravage
+Sans_filtre
+Decision_to_Leave
+Leila_et_ses_freres
+Pinocchio
+Coupez
+Vortex
+La_PatPatrouille
+Les_Jours_Heureux
+Bullet_Train
+Solo
+L_Ocean_vu_du_coeur
+Licorice_Pizza
+Killers_of_the_Flower_Moon
+La_passion_Dodin_Bouffant
+Cinq_Nuits_Chez_Freddy
+Trois_mille_ans_a_t_attendre
+The_Marvels
+L_Amour_et_les_forets
+The_Batman
+Doctor_Strange_in_the_Multiverse_of_Madness
+Elvis
+La_Legende_Papillon
+Sur_L_Admant
+Visions
+Vampire_humaniste_chercher_suicidaire_consentant
+Le_proces_Goldman
+Top_Gun_Maverick
+Les_Trolls_3
+As_Bestas
+Les_Banshees_d_Inisherin
+Ru
+EO
+Ma_cite_evincee
+Agent_libre
+Tyalor_Swift_Eras_tour
+Imitation_Game
+Everything_Everywhere_All_at_Once
+Je_verrai_toujours_vos_visages
+Armageddon_Time
+La_Nuit_du_12
+Nightmare_Alley
+The_Northman
+Avatar_La_Voie_de_l_eau
+Anotomie_d_une_chute
+Les_Rayons_gamma
+The_Exorcist_Believer
+Pacifiction_Tourment_sur_les_iles
+The_Green_Knight
+Film_00051
+Film_00052
+Film_00053
+Film_00054
+Film_00055
+Film_00056
+Film_00057
+Film_00058
+Film_00059
+Film_00060
+Film_00061
+Film_00062
+Film_00063
+Film_00064
+Film_00065
+Film_00066
+Film_00067
+Film_00068
+Film_00069
+Film_00070
+Film_00071
+Film_00072
+Film_00073
+Film_00074
+Film_00075
+Film_00076
+Film_00077
+Film_00078
+Film_00079
+Film_00080
+Film_00081
+Film_00082
+Film_00083
+Film_00084
+Film_00085
+Film_00086
+Film_00087
+Film_00088
+Film_00089
+Film_00090
+Film_00091
+Film_00092
+Film_00093
+Film_00094
+Film_00095
+Film_00096
+Film_00097
+Film_00098
+Film_00099
+Film_00100
+1000
+Soumana	1	Film_00092
+Larwani	6	Les_Banshees_d_Inisherin	Film_00089	Film_00061	Film_00059	Film_00060	Les_Jours_Heureux
+Fodo	4	Film_00090	Sur_L_Admant	Avatar_La_Voie_de_l_eau	L_Amour_et_les_forets
+Alibay	6	Sans_filtre	Film_00053	Everything_Everywhere_All_at_Once	The_Marvels	La_Nuit_du_12	Armageddon_Time
+Tchouyomgou	9	Pinocchio	Film_00093	Licorice_Pizza	Film_00053	Film_00094	Le_proces_Goldman	Film_00072	Coupez	Imitation_Game
+Simo	3	The_Marvels	Film_00082	Bullet_Train
+Afi	4	Film_00089	Film_00096	Film_00088	Vortex
+Al	5	Caravage	Film_00099	Film_00097	Film_00073	Cinq_Nuits_Chez_Freddy
+Nazim	5	Trois_mille_ans_a_t_attendre	Everything_Everywhere_All_at_Once	Film_00051	L_Amour_et_les_forets	Armageddon_Time
+El	10	Film_00079	Film_00085	The_Batman	Film_00090	Les_Banshees_d_Inisherin	Film_00072	Film_00084	Film_00062	L_Amour_et_les_forets	As_Bestas
+Koda	10	Film_00081	Solo	Film_00100	Film_00075	Film_00052	Film_00094	Film_00091	Nightmare_Alley	Armageddon_Time	Vampire_humaniste_chercher_suicidaire_consentant
+Haithem	7	Film_00083	Coupez	Film_00095	Film_00089	Film_00066	Film_00053	Film_00052
+Kenny	7	Film_00075	Film_00074	The_Green_Knight	The_Exorcist_Believer	Visions	Film_00087	Film_00086
+Slihimi	5	Les_Trolls_3	Trois_mille_ans_a_t_attendre	Caravage	Film_00099	Film_00094
+Daubert	7	Film_00072	The_Batman	Top_Gun_Maverick	Avatar_La_Voie_de_l_eau	Film_00067	Le_proces_Goldman	Film_00078
+St*Onge	4	Top_Gun_Maverick	Vortex	Film_00082	Film_00056
+Tidiane	3	Ru	Sans_filtre	Film_00058
+Bamba	4	Film_00056	Film_00070	Film_00083	Film_00073
+Anthony	6	Film_00068	Film_00100	La_passion_Dodin_Bouffant	Film_00086	Everything_Everywhere_All_at_Once	Les_Trolls_3
+Ericka	5	La_PatPatrouille	Film_00066	Film_00100	Les_Rayons_gamma	Nightmare_Alley
+Elisee	5	Film_00097	The_Exorcist_Believer	Elvis	Film_00073	Film_00061
+Nabil	6	Film_00064	Visions	The_Exorcist_Believer	Ru	The_Batman	Film_00095
+Ibrahim	7	Vortex	Film_00083	Film_00085	Ma_cite_evincee	Film_00087	Film_00078	Nope
+Charles*Antoine	4	Le_proces_Goldman	Sans_filtre	Film_00077	Nope
+Hamelin	1	La_PatPatrouille
+Gagnon	6	Pinocchio	Les_Jours_Heureux	Tyalor_Swift_Eras_tour	Vampire_humaniste_chercher_suicidaire_consentant	Film_00066	Film_00083
+Namroud	1	Film_00087
+Nicolas	3	Film_00092	Film_00096	Nope
+Tartaro	6	Film_00089	Film_00082	Solo	Film_00091	Film_00077	Film_00084
+Abdoul	4	Les_Jours_Heureux	Avatar_La_Voie_de_l_eau	Killers_of_the_Flower_Moon	La_passion_Dodin_Bouffant
+Fanta	8	La_Nuit_du_12	Film_00057	Film_00088	Sur_L_Admant	L_Amour_et_les_forets	Film_00052	Film_00063	Les_Banshees_d_Inisherin
+Sanjon	7	Pinocchio	Film_00089	Film_00053	Le_proces_Goldman	Film_00085	Anotomie_d_une_chute	Sans_filtre
+Lo	6	Trois_mille_ans_a_t_attendre	Film_00076	Pacifiction_Tourment_sur_les_iles	Doctor_Strange_in_the_Multiverse_of_Madness	Bullet_Train	Film_00089
+Françoise	9	Film_00075	L_Amour_et_les_forets	Film_00059	Film_00057	Licorice_Pizza	Film_00088	Film_00100	Les_Rayons_gamma	Film_00054
+Lele	10	Film_00051	Film_00054	Decision_to_Leave	Les_Trolls_3	Cinq_Nuits_Chez_Freddy	Film_00062	Coupez	Film_00095	Agent_libre	Film_00093
+Mentor	9	Film_00086	Film_00057	Film_00067	Film_00061	Film_00059	The_Batman	Film_00073	La_PatPatrouille	Film_00093
+Berranen	8	Film_00082	Film_00069	Tyalor_Swift_Eras_tour	Film_00090	Decision_to_Leave	Je_verrai_toujours_vos_visages	Film_00088	Film_00068
+Hasnaoui	4	The_Northman	Film_00078	Imitation_Game	Sans_filtre
+Bellel	2	Licorice_Pizza	Film_00089
+Abdellahi	5	EO	Film_00081	The_Exorcist_Believer	Les_Banshees_d_Inisherin	Film_00064
+Bello	7	Film_00085	The_Northman	Nope	Film_00079	As_Bestas	Pacifiction_Tourment_sur_les_iles	Film_00084
+Mérilan	10	The_Northman	Film_00096	Film_00070	Film_00086	Film_00092	La_PatPatrouille	Film_00088	Trois_mille_ans_a_t_attendre	EO	Film_00090
+Dieye	1	Film_00099
+Barchechat	9	Avatar_La_Voie_de_l_eau	Film_00093	Armageddon_Time	Film_00069	Everything_Everywhere_All_at_Once	As_Bestas	Film_00099	Solo	Film_00072
+Myriam	3	Film_00088	The_Batman	Film_00058
+Hamed	4	Everything_Everywhere_All_at_Once	Film_00072	Film_00099	Les_Rayons_gamma
+Gueye	8	Film_00066	La_Legende_Papillon	Nope	Film_00099	Film_00074	The_Marvels	Leila_et_ses_freres	Doctor_Strange_in_the_Multiverse_of_Madness
+Hakim	7	Film_00091	Film_00072	Film_00100	Film_00076	Film_00078	Elvis	Nightmare_Alley
+Lafontaine	6	Film_00061	Killers_of_the_Flower_Moon	Les_Banshees_d_Inisherin	Caravage	La_Legende_Papillon	Decision_to_Leave
+Julien	2	Film_00064	Ru
+Lanthier	10	Film_00069	Armageddon_Time	Film_00053	Film_00089	Vampire_humaniste_chercher_suicidaire_consentant	The_Marvels	Film_00056	Film_00085	Cinq_Nuits_Chez_Freddy	Film_00092
+Habib	3	Film_00056	L_Ocean_vu_du_coeur	Film_00067
+Michael	9	Film_00077	La_Legende_Papillon	Film_00062	Pacifiction_Tourment_sur_les_iles	Le_proces_Goldman	Ru	Film_00056	Film_00079	Film_00087
+Yacine	3	Les_Banshees_d_Inisherin	Film_00092	Film_00076
+Ssuto	10	Film_00097	Film_00055	Killers_of_the_Flower_Moon	Les_Trolls_3	Nope	Film_00091	Film_00072	Visions	Coupez	Film_00060
+Hussein	4	Les_Rayons_gamma	Film_00100	Solo	Film_00055
+Tonga	9	Film_00069	Film_00084	Ma_cite_evincee	Ru	Film_00070	Pacifiction_Tourment_sur_les_iles	Film_00060	Film_00065	Film_00085
+Dany	1	EO
+Fotsing	2	Film_00091	Film_00090
+Hijazi	6	Les_Banshees_d_Inisherin	Imitation_Game	Pacifiction_Tourment_sur_les_iles	La_Nuit_du_12	Everything_Everywhere_All_at_Once	Ru
+Marie	7	Film_00094	Agent_libre	Nightmare_Alley	Film_00099	Les_Rayons_gamma	Film_00064	Film_00076
+Diawara	8	Film_00089	Coupez	Armageddon_Time	Film_00067	Film_00065	Film_00062	Film_00093	Pacifiction_Tourment_sur_les_iles
+Kalkoye	7	Nope	Top_Gun_Maverick	Tyalor_Swift_Eras_tour	The_Northman	Film_00099	Film_00080	Film_00070
+Houssen	3	La_Legende_Papillon	Solo	Film_00080
+Diallo	7	La_Legende_Papillon	Film_00070	Film_00088	Les_Trolls_3	Film_00090	Film_00083	Top_Gun_Maverick
+Himbaza	3	Avatar_La_Voie_de_l_eau	Film_00055	Film_00068
+Adéchina	5	La_Nuit_du_12	Film_00078	Film_00072	Film_00059	Les_Jours_Heureux
+Samuel	3	Film_00056	Film_00094	La_Nuit_du_12
+Sébastien	9	L_Amour_et_les_forets	Agent_libre	Film_00076	The_Exorcist_Believer	Film_00052	Film_00092	Pacifiction_Tourment_sur_les_iles	As_Bestas	Film_00063
+Oumar	6	Leila_et_ses_freres	Caravage	Film_00086	Film_00069	Ru	Film_00090
+Chaussé	10	Top_Gun_Maverick	Film_00074	Everything_Everywhere_All_at_Once	Film_00061	Film_00084	Armageddon_Time	Vortex	The_Batman	The_Marvels	Film_00069
+Chako	3	Film_00077	Film_00067	Tyalor_Swift_Eras_tour
+Soulaik	2	L_Ocean_vu_du_coeur	Film_00073
+Gabriel	2	Les_Jours_Heureux	Film_00081
+Maxime	2	Bullet_Train	Agent_libre
+Massé	8	Coupez	The_Northman	Cinq_Nuits_Chez_Freddy	Film_00071	Imitation_Game	Film_00093	Film_00077	Film_00090
+Buntu	2	Film_00057	L_Ocean_vu_du_coeur
+Eyram	8	The_Exorcist_Believer	Decision_to_Leave	La_Nuit_du_12	La_Legende_Papillon	Licorice_Pizza	Film_00096	Coupez	The_Marvels
+Koua	2	Film_00057	Film_00082
+E	3	Film_00092	La_PatPatrouille	Film_00072
+Leila	10	Avatar_La_Voie_de_l_eau	Film_00081	Film_00087	Film_00068	Film_00084	Everything_Everywhere_All_at_Once	Film_00053	Film_00083	Agent_libre	La_passion_Dodin_Bouffant
+Nzodjou	2	Film_00069	Film_00092
+Gauthier	2	As_Bestas	L_Ocean_vu_du_coeur
+Manuella	8	Film_00075	Film_00078	Film_00077	Top_Gun_Maverick	Film_00085	Les_Banshees_d_Inisherin	Anotomie_d_une_chute	As_Bestas
+Dit	8	Killers_of_the_Flower_Moon	The_Marvels	The_Northman	Film_00100	Film_00058	Film_00052	Pacifiction_Tourment_sur_les_iles	Film_00083
+Hocine	1	Doctor_Strange_in_the_Multiverse_of_Madness
+Inès	2	Film_00098	Agent_libre
+Aimée	3	Je_verrai_toujours_vos_visages	Film_00064	Film_00060
+Toure	7	Film_00069	Ru	Film_00089	Sur_L_Admant	Film_00056	Film_00055	Elvis
+Alexandre	2	Film_00084	Film_00069
+Warit	9	Film_00062	Film_00095	La_passion_Dodin_Bouffant	Film_00084	Film_00060	L_Ocean_vu_du_coeur	The_Exorcist_Believer	Decision_to_Leave	Film_00081
+Diae	2	Film_00069	Film_00084
+Assane	1	Film_00059
+Abdourahamane	9	Film_00097	EO	Film_00069	Caravage	Film_00079	Coupez	Nightmare_Alley	Film_00062	L_Ocean_vu_du_coeur
+Djadjaglo	8	Film_00078	Leila_et_ses_freres	Film_00074	The_Marvels	Trois_mille_ans_a_t_attendre	Film_00069	Film_00066	Les_Banshees_d_Inisherin
+Chris	10	Film_00066	Film_00088	Vortex	Film_00091	Sans_filtre	Tyalor_Swift_Eras_tour	Le_proces_Goldman	Film_00051	Film_00070	Film_00074
+Driouich	5	Film_00065	L_Ocean_vu_du_coeur	Film_00057	Vortex	Imitation_Game
+Ghalem	1	Les_Trolls_3
+Zeinab	10	Film_00065	Elvis	Les_Banshees_d_Inisherin	Agent_libre	Film_00082	Film_00057	Film_00062	Film_00078	Film_00094	Film_00099
+Mazouzi	4	Decision_to_Leave	Film_00093	Film_00083	Film_00078
+Olivier	9	Film_00074	Les_Jours_Heureux	Licorice_Pizza	Ru	Film_00080	Pacifiction_Tourment_sur_les_iles	Film_00076	Trois_mille_ans_a_t_attendre	Film_00094
+Ramzi	9	The_Green_Knight	Ru	Film_00084	Bullet_Train	Sans_filtre	Decision_to_Leave	Film_00065	Avatar_La_Voie_de_l_eau	As_Bestas
+Salim	6	Ru	Sur_L_Admant	Film_00071	Film_00096	Leila_et_ses_freres	Film_00055
+Patel	1	Film_00093
+Celestine	9	Film_00075	The_Marvels	Film_00063	Film_00071	La_passion_Dodin_Bouffant	Film_00097	Avatar_La_Voie_de_l_eau	Les_Banshees_d_Inisherin	Film_00068
+Elloh	6	Coupez	Tyalor_Swift_Eras_tour	Film_00057	Sans_filtre	Elvis	Licorice_Pizza
+Naomy	6	Doctor_Strange_in_the_Multiverse_of_Madness	Film_00091	Film_00051	Film_00056	Film_00093	Le_proces_Goldman
+Charles	5	Vortex	Film_00062	Cinq_Nuits_Chez_Freddy	Coupez	Film_00094
+Bakhoré	5	La_passion_Dodin_Bouffant	Agent_libre	The_Batman	Ma_cite_evincee	The_Green_Knight
+Benoit	10	Film_00072	Film_00076	Film_00100	Film_00094	Film_00062	Vampire_humaniste_chercher_suicidaire_consentant	Licorice_Pizza	Killers_of_the_Flower_Moon	Film_00092	Everything_Everywhere_All_at_Once
+Samoura	6	Les_Trolls_3	The_Green_Knight	Film_00075	Film_00069	Licorice_Pizza	Film_00058
+Langui	7	Film_00087	Pinocchio	The_Marvels	La_Legende_Papillon	Film_00090	Ma_cite_evincee	Imitation_Game
+Velasquez	5	Film_00055	Solo	Armageddon_Time	Film_00074	Pacifiction_Tourment_sur_les_iles
+Hamza	3	Everything_Everywhere_All_at_Once	Imitation_Game	La_Legende_Papillon
+Berkane	2	Ma_cite_evincee	Sans_filtre
+Mohamed	1	Film_00089
+Soukouna	7	Film_00069	Film_00081	Vampire_humaniste_chercher_suicidaire_consentant	Doctor_Strange_in_the_Multiverse_of_Madness	Film_00094	Film_00055	Film_00073
+Benjamin	7	Coupez	Film_00089	Film_00096	Film_00051	Nightmare_Alley	Film_00094	Film_00093
+Diop	3	La_Nuit_du_12	The_Batman	Film_00094
+Rayan	2	Film_00092	Film_00074
+Roy	9	Decision_to_Leave	Avatar_La_Voie_de_l_eau	Tyalor_Swift_Eras_tour	Film_00085	Film_00081	Caravage	The_Northman	Imitation_Game	Le_proces_Goldman
+Wedany	4	La_passion_Dodin_Bouffant	Film_00069	Film_00064	Film_00078
+Esther	7	Film_00058	Film_00054	Film_00052	Film_00063	Film_00075	Film_00082	Film_00078
+Amine	6	L_Ocean_vu_du_coeur	Licorice_Pizza	As_Bestas	Film_00068	Film_00088	Film_00055
+Abel	2	Decision_to_Leave	Killers_of_the_Flower_Moon
+Bertrand	8	Ru	The_Northman	Les_Trolls_3	Nightmare_Alley	The_Exorcist_Believer	La_PatPatrouille	Film_00073	Je_verrai_toujours_vos_visages
+Yannick	3	Film_00089	Film_00063	Film_00070
+Djeukam	9	Film_00085	Film_00098	Doctor_Strange_in_the_Multiverse_of_Madness	Film_00072	Nope	Top_Gun_Maverick	Agent_libre	Film_00074	Tyalor_Swift_Eras_tour
+Claude*Emmanuel	10	Film_00053	Film_00079	Leila_et_ses_freres	Film_00078	Film_00060	Film_00067	La_passion_Dodin_Bouffant	The_Northman	Film_00064	Avatar_La_Voie_de_l_eau
+Alex	5	Pacifiction_Tourment_sur_les_iles	Film_00075	Film_00078	Film_00062	Caravage
+Sakkouhi	2	La_Legende_Papillon	EO
+Adam	5	Pinocchio	Ru	Trois_mille_ans_a_t_attendre	Film_00078	Bullet_Train
+Léandre	6	Film_00089	Film_00071	Film_00079	Film_00051	Film_00098	Film_00076
+Cabana	6	La_Nuit_du_12	The_Green_Knight	Film_00065	Ru	As_Bestas	Film_00068
+Mourad	5	The_Green_Knight	As_Bestas	Les_Jours_Heureux	Je_verrai_toujours_vos_visages	Film_00094
+Wadoud	1	Decision_to_Leave
+Leandre	2	Coupez	Film_00094
+Client_00138 	10	Film_00082	Film_00067	The_Marvels	Film_00073	Everything_Everywhere_All_at_Once	Film_00057	Film_00063	Vortex	Je_verrai_toujours_vos_visages	Coupez
+Client_00139 	1	Anotomie_d_une_chute
+Client_00140 	10	Film_00083	Anotomie_d_une_chute	Film_00059	Armageddon_Time	Film_00078	Film_00063	Film_00092	Coupez	Film_00094	Film_00100
+Client_00141 	7	Film_00074	Film_00077	Film_00087	Leila_et_ses_freres	Coupez	La_PatPatrouille	Film_00069
+Client_00142 	3	Avatar_La_Voie_de_l_eau	Film_00058	Film_00084
+Client_00143 	3	Vampire_humaniste_chercher_suicidaire_consentant	The_Green_Knight	The_Marvels
+Client_00144 	2	Anotomie_d_une_chute	Film_00086
+Client_00145 	7	Film_00084	Film_00086	Film_00063	Film_00061	Film_00100	Film_00089	Film_00074
+Client_00146 	3	Nightmare_Alley	Agent_libre	Film_00051
+Client_00147 	6	Film_00062	Agent_libre	Film_00075	Film_00061	Film_00093	Nope
+Client_00148 	2	La_Legende_Papillon	Film_00056
+Client_00149 	9	Les_Rayons_gamma	Pinocchio	Film_00090	Film_00091	La_PatPatrouille	Film_00056	Film_00098	Film_00061	Film_00059
+Client_00150 	3	La_Nuit_du_12	Nope	Film_00092
+Client_00151 	5	Les_Jours_Heureux	La_Legende_Papillon	Film_00052	Film_00061	Film_00066
+Client_00152 	5	EO	Everything_Everywhere_All_at_Once	Decision_to_Leave	Film_00075	Armageddon_Time
+Client_00153 	7	Film_00071	Sans_filtre	Film_00099	Leila_et_ses_freres	Film_00079	Film_00088	As_Bestas
+Client_00154 	4	Film_00051	Solo	The_Green_Knight	La_Nuit_du_12
+Client_00155 	6	Film_00065	Film_00088	Film_00070	Film_00094	Film_00066	Film_00063
+Client_00156 	9	Ru	Film_00065	Film_00066	Film_00051	As_Bestas	Trois_mille_ans_a_t_attendre	The_Marvels	Solo	Film_00094
+Client_00157 	2	Cinq_Nuits_Chez_Freddy	Film_00052
+Client_00158 	9	Film_00078	Pacifiction_Tourment_sur_les_iles	Les_Banshees_d_Inisherin	Nightmare_Alley	The_Marvels	Film_00093	Film_00071	Film_00074	Licorice_Pizza
+Client_00159 	1	Avatar_La_Voie_de_l_eau
+Client_00160 	2	Top_Gun_Maverick	Film_00065
+Client_00161 	5	Film_00072	Film_00094	Film_00061	Doctor_Strange_in_the_Multiverse_of_Madness	The_Batman
+Client_00162 	6	The_Batman	Les_Banshees_d_Inisherin	L_Amour_et_les_forets	Licorice_Pizza	Film_00054	Film_00074
+Client_00163 	1	Decision_to_Leave
+Client_00164 	9	La_passion_Dodin_Bouffant	Vortex	The_Exorcist_Believer	Film_00060	Elvis	Coupez	Film_00084	Film_00067	The_Marvels
+Client_00165 	10	Film_00066	Film_00099	Solo	The_Batman	The_Green_Knight	Film_00072	Film_00070	Film_00086	Film_00069	Imitation_Game
+Client_00166 	4	Cinq_Nuits_Chez_Freddy	Top_Gun_Maverick	Film_00088	Caravage
+Client_00167 	6	Sur_L_Admant	Trois_mille_ans_a_t_attendre	Film_00099	Film_00072	Les_Banshees_d_Inisherin	Film_00053
+Client_00168 	8	Vortex	Sur_L_Admant	Film_00066	Film_00064	Film_00053	Film_00082	L_Amour_et_les_forets	Nightmare_Alley
+Client_00169 	5	Agent_libre	Film_00090	The_Marvels	Ma_cite_evincee	Pacifiction_Tourment_sur_les_iles
+Client_00170 	6	Film_00059	Film_00096	Nightmare_Alley	Film_00054	Sur_L_Admant	Film_00079
+Client_00171 	7	Top_Gun_Maverick	Film_00074	Les_Banshees_d_Inisherin	The_Exorcist_Believer	Film_00051	Film_00076	Film_00068
+Client_00172 	10	Cinq_Nuits_Chez_Freddy	Film_00055	L_Amour_et_les_forets	Ma_cite_evincee	Film_00086	Film_00087	Film_00093	Film_00066	Film_00056	Film_00054
+Client_00173 	9	Decision_to_Leave	Imitation_Game	Film_00065	Film_00055	EO	Film_00059	Film_00053	Everything_Everywhere_All_at_Once	Doctor_Strange_in_the_Multiverse_of_Madness
+Client_00174 	9	Film_00064	The_Green_Knight	Film_00089	Film_00071	Film_00070	Film_00065	Visions	Film_00072	Elvis
+Client_00175 	9	Tyalor_Swift_Eras_tour	Les_Rayons_gamma	Imitation_Game	Film_00090	Nope	Sur_L_Admant	Armageddon_Time	Top_Gun_Maverick	Le_proces_Goldman
+Client_00176 	7	Je_verrai_toujours_vos_visages	Agent_libre	Tyalor_Swift_Eras_tour	Film_00100	Film_00098	Nope	Film_00091
+Client_00177 	2	Nightmare_Alley	Vortex
+Client_00178 	4	Film_00089	Film_00086	The_Marvels	EO
+Client_00179 	10	Les_Jours_Heureux	Leila_et_ses_freres	Les_Trolls_3	Film_00094	Film_00066	Tyalor_Swift_Eras_tour	Film_00067	Je_verrai_toujours_vos_visages	Decision_to_Leave	Bullet_Train
+Client_00180 	9	Ru	Cinq_Nuits_Chez_Freddy	Film_00071	Pacifiction_Tourment_sur_les_iles	Film_00060	Ma_cite_evincee	Anotomie_d_une_chute	Film_00100	Les_Banshees_d_Inisherin
+Client_00181 	10	Film_00053	Sans_filtre	As_Bestas	Film_00074	Film_00083	Film_00062	Film_00051	Film_00076	The_Exorcist_Believer	Film_00094
+Client_00182 	2	Le_proces_Goldman	Film_00090
+Client_00183 	1	Film_00098
+Client_00184 	8	Sur_L_Admant	Vortex	The_Green_Knight	Film_00082	Vampire_humaniste_chercher_suicidaire_consentant	Decision_to_Leave	Film_00096	The_Batman
+Client_00185 	5	Film_00066	Film_00052	La_passion_Dodin_Bouffant	Film_00065	Film_00051
+Client_00186 	9	Film_00055	Sans_filtre	Film_00099	Coupez	Cinq_Nuits_Chez_Freddy	Les_Rayons_gamma	Elvis	Film_00083	Film_00068
+Client_00187 	1	Ma_cite_evincee
+Client_00188 	1	Visions
+Client_00189 	5	The_Green_Knight	Film_00093	Film_00058	Film_00096	Film_00062
+Client_00190 	2	Les_Jours_Heureux	La_Legende_Papillon
+Client_00191 	5	Leila_et_ses_freres	Film_00063	Ma_cite_evincee	The_Exorcist_Believer	La_Legende_Papillon
+Client_00192 	7	Film_00069	Film_00100	Film_00061	Avatar_La_Voie_de_l_eau	Nightmare_Alley	Decision_to_Leave	EO
+Client_00193 	2	Je_verrai_toujours_vos_visages	Film_00056
+Client_00194 	10	Pinocchio	Nightmare_Alley	Je_verrai_toujours_vos_visages	Film_00064	Film_00090	Film_00065	Caravage	Film_00068	Sans_filtre	Film_00057
+Client_00195 	8	L_Ocean_vu_du_coeur	Film_00067	Film_00051	Trois_mille_ans_a_t_attendre	Film_00054	Film_00085	Pinocchio	Film_00092
+Client_00196 	10	Decision_to_Leave	Film_00065	Film_00057	Film_00072	Bullet_Train	La_PatPatrouille	Nope	Film_00074	EO	Film_00059
+Client_00197 	4	Film_00095	Film_00081	The_Exorcist_Believer	Film_00093
+Client_00198 	7	EO	Film_00093	Film_00069	Film_00085	L_Amour_et_les_forets	Elvis	Film_00099
+Client_00199 	4	Sur_L_Admant	Film_00087	Film_00085	Ma_cite_evincee
+Client_00200 	4	Imitation_Game	EO	Film_00099	Film_00096
+Client_00201 	7	Film_00054	Cinq_Nuits_Chez_Freddy	Film_00094	Film_00081	La_Nuit_du_12	EO	Film_00071
+Client_00202 	2	Ma_cite_evincee	Visions
+Client_00203 	8	Sur_L_Admant	Imitation_Game	Bullet_Train	Les_Jours_Heureux	Vortex	Film_00097	Les_Rayons_gamma	Film_00063
+Client_00204 	7	Film_00094	Film_00087	Film_00059	Anotomie_d_une_chute	Film_00073	Trois_mille_ans_a_t_attendre	EO
+Client_00205 	8	Trois_mille_ans_a_t_attendre	Film_00099	Everything_Everywhere_All_at_Once	Film_00080	Film_00067	Film_00084	Film_00051	Film_00056
+Client_00206 	10	Visions	Film_00070	Les_Banshees_d_Inisherin	The_Exorcist_Believer	Film_00081	Everything_Everywhere_All_at_Once	Film_00089	Pinocchio	Film_00079	Sur_L_Admant
+Client_00207 	1	Le_proces_Goldman
+Client_00208 	6	Film_00084	Decision_to_Leave	Visions	L_Ocean_vu_du_coeur	Killers_of_the_Flower_Moon	Film_00065
+Client_00209 	8	La_PatPatrouille	Film_00085	The_Marvels	Imitation_Game	Film_00061	Film_00089	Film_00078	Leila_et_ses_freres
+Client_00210 	1	Film_00069
+Client_00211 	8	Sans_filtre	Film_00090	Cinq_Nuits_Chez_Freddy	Doctor_Strange_in_the_Multiverse_of_Madness	Pinocchio	La_PatPatrouille	L_Ocean_vu_du_coeur	As_Bestas
+Client_00212 	3	Film_00070	Film_00084	Everything_Everywhere_All_at_Once
+Client_00213 	8	Film_00074	The_Batman	Film_00083	Film_00097	Anotomie_d_une_chute	Film_00067	Ma_cite_evincee	Les_Banshees_d_Inisherin
+Client_00214 	7	Les_Jours_Heureux	Film_00091	Film_00090	The_Northman	Film_00056	EO	Film_00052
+Client_00215 	5	Film_00090	Film_00071	Film_00056	Film_00082	Je_verrai_toujours_vos_visages
+Client_00216 	1	Visions
+Client_00217 	8	Sur_L_Admant	As_Bestas	Coupez	La_Legende_Papillon	Film_00059	Film_00086	Film_00099	Film_00077
+Client_00218 	7	Coupez	Film_00094	The_Green_Knight	Ma_cite_evincee	Les_Banshees_d_Inisherin	Imitation_Game	Film_00080
+Client_00219 	1	Film_00100
+Client_00220 	7	Licorice_Pizza	Cinq_Nuits_Chez_Freddy	The_Batman	EO	Sans_filtre	Pinocchio	Film_00080
+Client_00221 	10	Licorice_Pizza	Film_00085	Les_Jours_Heureux	Film_00092	La_passion_Dodin_Bouffant	Film_00091	The_Batman	Bullet_Train	Film_00070	Vortex
+Client_00222 	5	The_Northman	Film_00085	Tyalor_Swift_Eras_tour	Film_00067	Top_Gun_Maverick
+Client_00223 	7	Les_Rayons_gamma	Le_proces_Goldman	Nightmare_Alley	Vampire_humaniste_chercher_suicidaire_consentant	Anotomie_d_une_chute	Vortex	Les_Trolls_3
+Client_00224 	9	Film_00053	Pacifiction_Tourment_sur_les_iles	Sur_L_Admant	Nightmare_Alley	Sans_filtre	L_Ocean_vu_du_coeur	The_Marvels	La_Legende_Papillon	Film_00096
+Client_00225 	7	Film_00068	Anotomie_d_une_chute	Film_00067	Film_00094	Film_00090	Film_00062	Trois_mille_ans_a_t_attendre
+Client_00226 	10	Film_00097	Vortex	Film_00093	Caravage	Nope	The_Marvels	Film_00072	Film_00062	Elvis	Film_00055
+Client_00227 	7	Film_00065	Vortex	Cinq_Nuits_Chez_Freddy	Film_00062	Film_00085	Film_00064	Film_00083
+Client_00228 	8	Bullet_Train	Film_00055	Film_00088	Film_00069	Film_00091	Film_00095	La_passion_Dodin_Bouffant	Film_00081
+Client_00229 	10	Film_00087	Elvis	Coupez	Trois_mille_ans_a_t_attendre	Sur_L_Admant	L_Amour_et_les_forets	La_Nuit_du_12	Caravage	The_Northman	Film_00089
+Client_00230 	6	Caravage	Film_00073	Film_00051	Film_00090	Film_00079	Film_00072
+Client_00231 	6	Les_Banshees_d_Inisherin	Caravage	Film_00061	La_Nuit_du_12	The_Marvels	Nightmare_Alley
+Client_00232 	7	Film_00078	Coupez	Film_00088	Vortex	Film_00094	Film_00054	Film_00076
+Client_00233 	7	Cinq_Nuits_Chez_Freddy	Solo	Film_00088	Film_00067	Film_00065	Les_Jours_Heureux	Film_00062
+Client_00234 	8	Film_00070	Film_00091	Bullet_Train	Film_00076	Film_00081	Avatar_La_Voie_de_l_eau	Film_00087	Les_Trolls_3
+Client_00235 	4	Film_00069	Film_00062	Film_00051	La_passion_Dodin_Bouffant
+Client_00236 	2	Film_00064	La_Nuit_du_12
+Client_00237 	6	Film_00055	Film_00080	The_Green_Knight	Film_00084	Film_00094	Pacifiction_Tourment_sur_les_iles
+Client_00238 	2	Doctor_Strange_in_the_Multiverse_of_Madness	Film_00061
+Client_00239 	9	Film_00077	Film_00056	Agent_libre	Film_00058	Film_00080	Film_00067	Je_verrai_toujours_vos_visages	Film_00054	As_Bestas
+Client_00240 	4	Film_00092	Leila_et_ses_freres	Film_00094	Le_proces_Goldman
+Client_00241 	4	Nightmare_Alley	Film_00058	Film_00053	Film_00099
+Client_00242 	1	Film_00062
+Client_00243 	8	Film_00071	Trois_mille_ans_a_t_attendre	Decision_to_Leave	Film_00096	Visions	Les_Trolls_3	Film_00061	Cinq_Nuits_Chez_Freddy
+Client_00244 	3	Film_00059	Film_00084	Film_00068
+Client_00245 	3	Film_00068	Film_00079	Ru
+Client_00246 	7	Film_00072	Cinq_Nuits_Chez_Freddy	Je_verrai_toujours_vos_visages	Film_00075	Film_00055	The_Northman	La_Legende_Papillon
+Client_00247 	4	Film_00081	Film_00078	Pacifiction_Tourment_sur_les_iles	The_Exorcist_Believer
+Client_00248 	6	Film_00099	Everything_Everywhere_All_at_Once	Film_00080	Leila_et_ses_freres	Decision_to_Leave	Film_00070
+Client_00249 	4	La_passion_Dodin_Bouffant	La_Nuit_du_12	Les_Jours_Heureux	Les_Banshees_d_Inisherin
+Client_00250 	1	Doctor_Strange_in_the_Multiverse_of_Madness
+Client_00251 	7	Les_Rayons_gamma	Les_Jours_Heureux	L_Amour_et_les_forets	Pinocchio	Ma_cite_evincee	Tyalor_Swift_Eras_tour	Film_00099
+Client_00252 	7	Vortex	Film_00094	Film_00068	Film_00099	Les_Trolls_3	Film_00065	Film_00080
+Client_00253 	1	Elvis
+Client_00254 	5	Film_00055	Film_00068	Killers_of_the_Flower_Moon	Film_00088	Pinocchio
+Client_00255 	9	Film_00065	Film_00070	Sur_L_Admant	Top_Gun_Maverick	Film_00079	Je_verrai_toujours_vos_visages	Pinocchio	Anotomie_d_une_chute	Film_00059
+Client_00256 	1	Film_00091
+Client_00257 	1	Film_00055
+Client_00258 	1	Solo
+Client_00259 	6	Caravage	Film_00083	Pacifiction_Tourment_sur_les_iles	Film_00068	Sans_filtre	Film_00078
+Client_00260 	1	Film_00068
+Client_00261 	4	La_passion_Dodin_Bouffant	Film_00095	Film_00073	Elvis
+Client_00262 	9	Sur_L_Admant	Film_00097	Ru	Film_00064	Film_00063	Sans_filtre	Anotomie_d_une_chute	Film_00060	Elvis
+Client_00263 	4	Film_00073	The_Exorcist_Believer	Film_00090	L_Amour_et_les_forets
+Client_00264 	5	Nope	Film_00078	Film_00055	La_passion_Dodin_Bouffant	Film_00075
+Client_00265 	6	Film_00091	La_Nuit_du_12	Film_00060	Film_00061	Film_00088	Ma_cite_evincee
+Client_00266 	7	Film_00078	Film_00064	Les_Rayons_gamma	Film_00089	Film_00065	Ru	Decision_to_Leave
+Client_00267 	2	Vampire_humaniste_chercher_suicidaire_consentant	Film_00086
+Client_00268 	2	Film_00088	Film_00059
+Client_00269 	4	The_Exorcist_Believer	Film_00053	Tyalor_Swift_Eras_tour	Film_00075
+Client_00270 	3	Sans_filtre	Film_00051	Film_00060
+Client_00271 	2	Film_00079	Decision_to_Leave
+Client_00272 	2	Film_00096	Armageddon_Time
+Client_00273 	6	Film_00068	Film_00097	Film_00086	Film_00088	Film_00100	Film_00083
+Client_00274 	7	Film_00093	Film_00054	Film_00076	Film_00053	Licorice_Pizza	Film_00067	Les_Trolls_3
+Client_00275 	2	Film_00067	Film_00071
+Client_00276 	9	The_Exorcist_Believer	Film_00087	Sans_filtre	The_Marvels	Film_00079	Film_00083	Film_00071	Film_00070	Film_00077
+Client_00277 	2	Film_00065	Je_verrai_toujours_vos_visages
+Client_00278 	10	Film_00096	Nope	Film_00064	Film_00100	Vortex	Top_Gun_Maverick	Les_Jours_Heureux	La_Legende_Papillon	La_Nuit_du_12	Les_Trolls_3
+Client_00279 	1	Film_00073
+Client_00280 	3	Film_00055	Doctor_Strange_in_the_Multiverse_of_Madness	As_Bestas
+Client_00281 	8	Film_00052	Film_00053	Cinq_Nuits_Chez_Freddy	Solo	Le_proces_Goldman	Film_00071	Licorice_Pizza	Film_00076
+Client_00282 	9	The_Marvels	Pacifiction_Tourment_sur_les_iles	Film_00099	Film_00071	Film_00096	L_Ocean_vu_du_coeur	Decision_to_Leave	Visions	Film_00097
+Client_00283 	10	Ma_cite_evincee	Doctor_Strange_in_the_Multiverse_of_Madness	Les_Trolls_3	Visions	Film_00056	La_Legende_Papillon	La_passion_Dodin_Bouffant	Film_00068	Film_00058	Film_00051
+Client_00284 	3	Solo	Film_00100	Film_00089
+Client_00285 	7	Les_Banshees_d_Inisherin	Les_Trolls_3	Armageddon_Time	Trois_mille_ans_a_t_attendre	Film_00094	Elvis	Pinocchio
+Client_00286 	8	Film_00075	Film_00083	Pinocchio	Film_00098	L_Amour_et_les_forets	Film_00057	Film_00097	La_PatPatrouille
+Client_00287 	10	Film_00094	Film_00088	Film_00095	Film_00068	Everything_Everywhere_All_at_Once	Film_00061	Film_00056	Le_proces_Goldman	Elvis	Film_00051
+Client_00288 	8	Film_00052	The_Green_Knight	Film_00084	Film_00082	Killers_of_the_Flower_Moon	Pinocchio	As_Bestas	Film_00097
+Client_00289 	4	La_passion_Dodin_Bouffant	Film_00061	Cinq_Nuits_Chez_Freddy	Elvis
+Client_00290 	1	Visions
+Client_00291 	2	Nope	The_Batman
+Client_00292 	9	Film_00068	Film_00083	Elvis	Film_00056	Film_00097	Film_00059	Les_Jours_Heureux	Top_Gun_Maverick	Nightmare_Alley
+Client_00293 	4	The_Batman	Film_00088	Film_00062	L_Amour_et_les_forets
+Client_00294 	2	Film_00080	Film_00055
+Client_00295 	7	Film_00090	Film_00084	Film_00058	Film_00068	La_Nuit_du_12	Les_Jours_Heureux	Caravage
+Client_00296 	5	Film_00055	Film_00096	Film_00075	Film_00088	Les_Banshees_d_Inisherin
+Client_00297 	6	Film_00071	Film_00065	Film_00056	As_Bestas	La_Legende_Papillon	Film_00080
+Client_00298 	5	Avatar_La_Voie_de_l_eau	Agent_libre	The_Marvels	Le_proces_Goldman	Film_00074
+Client_00299 	6	Leila_et_ses_freres	Film_00072	EO	Film_00058	Tyalor_Swift_Eras_tour	Film_00088
+Client_00300 	3	Film_00056	Film_00061	Coupez
+Client_00301 	8	The_Northman	L_Amour_et_les_forets	The_Batman	La_Nuit_du_12	Film_00082	Film_00064	The_Green_Knight	Ru
+Client_00302 	4	Film_00054	Film_00093	Film_00099	Vampire_humaniste_chercher_suicidaire_consentant
+Client_00303 	1	Film_00089
+Client_00304 	1	La_Legende_Papillon
+Client_00305 	2	Film_00052	Film_00083
+Client_00306 	2	Les_Banshees_d_Inisherin	Solo
+Client_00307 	5	Film_00074	Everything_Everywhere_All_at_Once	Film_00056	Film_00060	Film_00092
+Client_00308 	8	Les_Jours_Heureux	Coupez	La_Legende_Papillon	Film_00092	Les_Banshees_d_Inisherin	Everything_Everywhere_All_at_Once	Ru	Vampire_humaniste_chercher_suicidaire_consentant
+Client_00309 	7	Film_00075	Top_Gun_Maverick	Les_Rayons_gamma	Pacifiction_Tourment_sur_les_iles	Film_00077	Sur_L_Admant	Elvis
+Client_00310 	8	Film_00098	Visions	Film_00076	Film_00061	Film_00058	EO	Cinq_Nuits_Chez_Freddy	Sans_filtre
+Client_00311 	6	Solo	Avatar_La_Voie_de_l_eau	Film_00085	Film_00071	Film_00073	Film_00054
+Client_00312 	5	Film_00094	Avatar_La_Voie_de_l_eau	Film_00072	Film_00059	The_Northman
+Client_00313 	10	Sans_filtre	Tyalor_Swift_Eras_tour	Film_00078	Film_00098	Armageddon_Time	Agent_libre	L_Ocean_vu_du_coeur	Film_00080	Elvis	Coupez
+Client_00314 	3	Film_00085	Les_Banshees_d_Inisherin	Film_00074
+Client_00315 	3	Film_00067	Film_00092	Film_00056
+Client_00316 	4	Film_00069	The_Batman	Film_00070	Everything_Everywhere_All_at_Once
+Client_00317 	10	Film_00066	Film_00055	Killers_of_the_Flower_Moon	Film_00096	Film_00076	Film_00078	Le_proces_Goldman	Film_00052	Film_00054	Film_00051
+Client_00318 	10	The_Green_Knight	Film_00086	Vampire_humaniste_chercher_suicidaire_consentant	Film_00095	Tyalor_Swift_Eras_tour	Film_00094	Film_00085	Film_00065	Film_00071	La_Legende_Papillon
+Client_00319 	8	Ru	Film_00061	Film_00054	Film_00069	Pinocchio	La_PatPatrouille	Film_00082	Film_00088
+Client_00320 	4	Film_00065	Film_00100	Nope	Film_00063
+Client_00321 	6	Film_00099	Film_00087	Avatar_La_Voie_de_l_eau	Film_00058	Solo	Les_Trolls_3
+Client_00322 	6	Killers_of_the_Flower_Moon	Film_00071	Coupez	Elvis	Film_00081	Pinocchio
+Client_00323 	2	Film_00089	Les_Jours_Heureux
+Client_00324 	6	Film_00077	Leila_et_ses_freres	Film_00087	Film_00068	La_Legende_Papillon	Armageddon_Time
+Client_00325 	5	Film_00068	Imitation_Game	Film_00054	Cinq_Nuits_Chez_Freddy	Solo
+Client_00326 	7	Ma_cite_evincee	Film_00070	Film_00053	Film_00060	Licorice_Pizza	Coupez	Film_00058
+Client_00327 	10	Leila_et_ses_freres	Je_verrai_toujours_vos_visages	La_passion_Dodin_Bouffant	Film_00065	La_PatPatrouille	Film_00077	La_Nuit_du_12	Coupez	Film_00081	Film_00078
+Client_00328 	3	Doctor_Strange_in_the_Multiverse_of_Madness	Avatar_La_Voie_de_l_eau	La_Nuit_du_12
+Client_00329 	8	Le_proces_Goldman	Film_00086	Film_00066	Film_00085	Film_00077	Film_00063	Killers_of_the_Flower_Moon	Sur_L_Admant
+Client_00330 	10	Film_00078	Film_00054	La_passion_Dodin_Bouffant	Pacifiction_Tourment_sur_les_iles	Ma_cite_evincee	Film_00073	Caravage	Les_Rayons_gamma	Film_00067	Vampire_humaniste_chercher_suicidaire_consentant
+Client_00331 	2	Caravage	Everything_Everywhere_All_at_Once
+Client_00332 	3	Elvis	Film_00054	Film_00081
+Client_00333 	8	Sur_L_Admant	Film_00083	Le_proces_Goldman	Licorice_Pizza	Film_00095	Film_00097	Film_00074	Film_00070
+Client_00334 	6	Film_00078	Film_00089	L_Ocean_vu_du_coeur	Doctor_Strange_in_the_Multiverse_of_Madness	Elvis	Film_00055
+Client_00335 	3	Film_00053	Everything_Everywhere_All_at_Once	Film_00061
+Client_00336 	10	Film_00098	Film_00057	Film_00066	Elvis	Bullet_Train	L_Ocean_vu_du_coeur	Visions	Film_00056	Film_00052	Film_00054
+Client_00337 	1	Film_00067
+Client_00338 	8	Killers_of_the_Flower_Moon	The_Green_Knight	Les_Banshees_d_Inisherin	Anotomie_d_une_chute	Film_00069	Film_00068	Film_00054	Je_verrai_toujours_vos_visages
+Client_00339 	6	Film_00089	Film_00059	Film_00079	Film_00093	Film_00085	Film_00061
+Client_00340 	9	Je_verrai_toujours_vos_visages	Film_00085	Film_00070	Film_00092	Film_00097	Armageddon_Time	Film_00051	Film_00052	Film_00065
+Client_00341 	7	Film_00074	Solo	Film_00076	Film_00070	Film_00098	Film_00085	Imitation_Game
+Client_00342 	7	Ma_cite_evincee	Film_00068	Film_00067	Film_00075	Film_00086	Film_00051	Je_verrai_toujours_vos_visages
+Client_00343 	8	Bullet_Train	Film_00070	Imitation_Game	The_Northman	Film_00075	Anotomie_d_une_chute	Film_00081	The_Exorcist_Believer
+Client_00344 	3	Film_00058	The_Exorcist_Believer	Film_00084
+Client_00345 	2	Film_00094	Film_00052
+Client_00346 	3	Je_verrai_toujours_vos_visages	The_Northman	Film_00065
+Client_00347 	7	Vampire_humaniste_chercher_suicidaire_consentant	The_Northman	Film_00086	Film_00053	Film_00075	Film_00078	Agent_libre
+Client_00348 	3	Avatar_La_Voie_de_l_eau	La_PatPatrouille	Agent_libre
+Client_00349 	9	EO	Anotomie_d_une_chute	Film_00072	La_PatPatrouille	Coupez	Film_00061	La_Legende_Papillon	Film_00075	Film_00059
+Client_00350 	9	Film_00055	Visions	L_Amour_et_les_forets	Film_00094	Film_00087	Film_00099	Film_00098	Anotomie_d_une_chute	Film_00086
+Client_00351 	4	Film_00081	EO	Le_proces_Goldman	Doctor_Strange_in_the_Multiverse_of_Madness
+Client_00352 	2	Film_00074	The_Batman
+Client_00353 	4	Sans_filtre	Tyalor_Swift_Eras_tour	Trois_mille_ans_a_t_attendre	Doctor_Strange_in_the_Multiverse_of_Madness
+Client_00354 	10	Film_00082	Film_00084	Film_00076	Film_00053	Film_00090	Film_00058	La_Legende_Papillon	L_Amour_et_les_forets	Ru	Film_00096
+Client_00355 	10	Pacifiction_Tourment_sur_les_iles	Les_Banshees_d_Inisherin	Avatar_La_Voie_de_l_eau	Licorice_Pizza	Film_00057	Agent_libre	Film_00063	Film_00097	Solo	Film_00080
+Client_00356 	4	Film_00087	Film_00082	Coupez	Avatar_La_Voie_de_l_eau
+Client_00357 	3	Film_00056	Film_00086	Everything_Everywhere_All_at_Once
+Client_00358 	8	Film_00095	Film_00084	Nightmare_Alley	Ru	Film_00052	Film_00061	Imitation_Game	Bullet_Train
+Client_00359 	2	Film_00067	Elvis
+Client_00360 	5	Imitation_Game	Anotomie_d_une_chute	Film_00077	Leila_et_ses_freres	Film_00057
+Client_00361 	2	Agent_libre	Sur_L_Admant
+Client_00362 	5	Agent_libre	The_Northman	Film_00072	Film_00098	Film_00061
+Client_00363 	4	L_Ocean_vu_du_coeur	Les_Rayons_gamma	Film_00095	EO
+Client_00364 	4	Visions	Film_00063	Anotomie_d_une_chute	Film_00090
+Client_00365 	8	Film_00069	Licorice_Pizza	Coupez	Pacifiction_Tourment_sur_les_iles	Agent_libre	Film_00096	Les_Banshees_d_Inisherin	Le_proces_Goldman
+Client_00366 	1	Film_00058
+Client_00367 	10	Film_00096	Film_00064	Sans_filtre	Film_00090	Doctor_Strange_in_the_Multiverse_of_Madness	Pinocchio	Les_Banshees_d_Inisherin	Pacifiction_Tourment_sur_les_iles	Film_00083	Je_verrai_toujours_vos_visages
+Client_00368 	1	Film_00069
+Client_00369 	2	Film_00052	Avatar_La_Voie_de_l_eau
+Client_00370 	9	Film_00054	Film_00088	Armageddon_Time	Film_00085	Film_00087	La_passion_Dodin_Bouffant	Cinq_Nuits_Chez_Freddy	Film_00070	Decision_to_Leave
+Client_00371 	9	Ma_cite_evincee	Film_00100	Film_00053	Film_00095	Film_00086	L_Ocean_vu_du_coeur	Caravage	Film_00069	As_Bestas
+Client_00372 	3	Les_Trolls_3	Film_00077	Film_00079
+Client_00373 	2	Film_00094	Film_00056
+Client_00374 	9	Film_00058	Film_00077	Film_00081	Film_00071	Film_00054	Film_00060	Film_00069	La_passion_Dodin_Bouffant	Les_Banshees_d_Inisherin
+Client_00375 	5	Pinocchio	Film_00075	Film_00091	Film_00055	Film_00099
+Client_00376 	10	Film_00093	Film_00076	Film_00096	Le_proces_Goldman	Film_00084	La_passion_Dodin_Bouffant	Film_00067	L_Ocean_vu_du_coeur	Film_00054	Film_00092
+Client_00377 	8	Film_00082	Film_00080	Sur_L_Admant	Le_proces_Goldman	The_Exorcist_Believer	The_Batman	Film_00096	Agent_libre
+Client_00378 	1	Anotomie_d_une_chute
+Client_00379 	8	Tyalor_Swift_Eras_tour	Cinq_Nuits_Chez_Freddy	EO	The_Batman	Les_Banshees_d_Inisherin	Film_00083	Film_00065	Sur_L_Admant
+Client_00380 	3	Film_00090	Les_Trolls_3	Film_00084
+Client_00381 	10	Film_00080	The_Batman	Film_00089	Film_00083	The_Marvels	Trois_mille_ans_a_t_attendre	Film_00100	Nightmare_Alley	Le_proces_Goldman	Film_00065
+Client_00382 	5	Le_proces_Goldman	Avatar_La_Voie_de_l_eau	Film_00077	Film_00075	The_Marvels
+Client_00383 	1	Armageddon_Time
+Client_00384 	1	Film_00066
+Client_00385 	5	Armageddon_Time	Film_00093	As_Bestas	Film_00063	Film_00061
+Client_00386 	8	Pacifiction_Tourment_sur_les_iles	Film_00076	Film_00080	La_Legende_Papillon	Film_00084	The_Green_Knight	Visions	EO
+Client_00387 	8	Film_00097	The_Marvels	Anotomie_d_une_chute	Film_00054	Licorice_Pizza	Film_00077	La_Legende_Papillon	Film_00067
+Client_00388 	1	L_Ocean_vu_du_coeur
+Client_00389 	8	L_Ocean_vu_du_coeur	The_Green_Knight	Nope	Tyalor_Swift_Eras_tour	Ma_cite_evincee	Film_00076	Film_00094	Imitation_Game
+Client_00390 	4	Les_Banshees_d_Inisherin	Film_00083	Film_00066	Elvis
+Client_00391 	2	Film_00067	Bullet_Train
+Client_00392 	8	La_passion_Dodin_Bouffant	Doctor_Strange_in_the_Multiverse_of_Madness	La_Legende_Papillon	Film_00097	The_Green_Knight	Film_00052	Film_00061	L_Amour_et_les_forets
+Client_00393 	4	Film_00092	Film_00057	Film_00059	Film_00061
+Client_00394 	8	Agent_libre	Film_00053	Film_00066	Ru	La_Nuit_du_12	Film_00092	Film_00070	Tyalor_Swift_Eras_tour
+Client_00395 	1	Top_Gun_Maverick
+Client_00396 	6	Film_00060	Film_00063	Top_Gun_Maverick	Film_00071	Vampire_humaniste_chercher_suicidaire_consentant	Film_00078
+Client_00397 	4	Imitation_Game	Film_00082	Film_00067	Film_00057
+Client_00398 	6	Les_Rayons_gamma	Agent_libre	Film_00052	La_Nuit_du_12	Film_00062	Ru
+Client_00399 	9	Film_00089	Killers_of_the_Flower_Moon	Imitation_Game	Film_00098	Armageddon_Time	Film_00062	As_Bestas	Trois_mille_ans_a_t_attendre	Top_Gun_Maverick
+Client_00400 	6	Ru	Solo	Film_00068	EO	Film_00052	Film_00055
+Client_00401 	2	Nightmare_Alley	Film_00085
+Client_00402 	2	Licorice_Pizza	Film_00076
+Client_00403 	3	L_Ocean_vu_du_coeur	Tyalor_Swift_Eras_tour	Leila_et_ses_freres
+Client_00404 	3	Film_00063	Film_00079	Doctor_Strange_in_the_Multiverse_of_Madness
+Client_00405 	5	EO	Film_00071	Film_00097	Film_00062	Film_00095
+Client_00406 	2	Film_00089	The_Exorcist_Believer
+Client_00407 	9	Les_Rayons_gamma	Nope	Je_verrai_toujours_vos_visages	Film_00077	Film_00079	Film_00055	Film_00070	Film_00097	Film_00059
+Client_00408 	1	Film_00098
+Client_00409 	5	Film_00092	Film_00077	Les_Trolls_3	Film_00070	Film_00096
+Client_00410 	1	Les_Jours_Heureux
+Client_00411 	3	Film_00086	Les_Jours_Heureux	The_Northman
+Client_00412 	9	Les_Jours_Heureux	Film_00052	Film_00051	Film_00072	Film_00085	Film_00082	Tyalor_Swift_Eras_tour	Film_00066	Film_00098
+Client_00413 	9	Film_00076	Film_00099	Film_00075	Pinocchio	Decision_to_Leave	Film_00095	Visions	Vampire_humaniste_chercher_suicidaire_consentant	Film_00087
+Client_00414 	3	Armageddon_Time	La_Nuit_du_12	Tyalor_Swift_Eras_tour
+Client_00415 	1	Film_00053
+Client_00416 	2	The_Batman	Killers_of_the_Flower_Moon
+Client_00417 	9	Film_00061	Film_00051	La_Nuit_du_12	Film_00082	Film_00091	Film_00095	Coupez	Licorice_Pizza	Pinocchio
+Client_00418 	2	Film_00091	Top_Gun_Maverick
+Client_00419 	8	Film_00099	Film_00093	L_Ocean_vu_du_coeur	Film_00066	Film_00096	Everything_Everywhere_All_at_Once	Film_00081	La_passion_Dodin_Bouffant
+Client_00420 	6	Film_00076	Film_00088	Film_00094	Film_00055	Vampire_humaniste_chercher_suicidaire_consentant	Film_00079
+Client_00421 	2	Trois_mille_ans_a_t_attendre	Tyalor_Swift_Eras_tour
+Client_00422 	2	EO	Film_00077
+Client_00423 	2	Elvis	Film_00098
+Client_00424 	7	Vortex	Film_00086	Film_00085	Film_00069	Top_Gun_Maverick	Film_00053	Armageddon_Time
+Client_00425 	8	Film_00060	Sans_filtre	Film_00078	The_Exorcist_Believer	Agent_libre	Film_00080	Film_00095	Film_00053
+Client_00426 	7	Visions	Bullet_Train	Les_Rayons_gamma	Film_00088	Film_00082	Film_00096	Solo
+Client_00427 	10	Film_00064	Nightmare_Alley	Film_00061	Film_00062	Film_00083	The_Northman	Film_00059	Armageddon_Time	L_Ocean_vu_du_coeur	As_Bestas
+Client_00428 	10	Pacifiction_Tourment_sur_les_iles	Film_00075	Film_00085	Film_00092	Licorice_Pizza	Film_00082	Film_00062	Film_00084	Imitation_Game	Nope
+Client_00429 	6	Film_00066	Film_00082	The_Marvels	Film_00068	Film_00051	Everything_Everywhere_All_at_Once
+Client_00430 	6	Tyalor_Swift_Eras_tour	Film_00094	Film_00090	L_Ocean_vu_du_coeur	Film_00062	Film_00078
+Client_00431 	2	Film_00098	Agent_libre
+Client_00432 	1	La_passion_Dodin_Bouffant
+Client_00433 	2	La_Nuit_du_12	Elvis
+Client_00434 	4	Film_00086	The_Northman	Leila_et_ses_freres	Film_00068
+Client_00435 	2	Coupez	Film_00055
+Client_00436 	1	Ru
+Client_00437 	7	Film_00098	Film_00078	Film_00081	Film_00051	Film_00056	Film_00094	Film_00096
+Client_00438 	2	Visions	Film_00055
+Client_00439 	6	The_Northman	Film_00078	Film_00056	Film_00087	Film_00085	Film_00060
+Client_00440 	6	Le_proces_Goldman	Film_00052	Leila_et_ses_freres	Film_00072	Les_Jours_Heureux	The_Batman
+Client_00441 	9	Film_00079	The_Marvels	Le_proces_Goldman	Film_00096	Film_00067	Film_00092	Film_00097	Film_00100	Nightmare_Alley
+Client_00442 	9	Film_00093	Film_00086	La_passion_Dodin_Bouffant	Film_00053	Solo	Film_00076	Film_00059	Film_00066	Film_00079
+Client_00443 	1	Vortex
+Client_00444 	3	Pacifiction_Tourment_sur_les_iles	Film_00093	Film_00086
+Client_00445 	1	Film_00087
+Client_00446 	5	Sans_filtre	Armageddon_Time	L_Ocean_vu_du_coeur	Les_Trolls_3	Film_00060
+Client_00447 	8	Film_00058	Bullet_Train	Film_00095	L_Amour_et_les_forets	Les_Rayons_gamma	Film_00094	Caravage	Film_00086
+Client_00448 	8	Film_00056	Anotomie_d_une_chute	Film_00095	Film_00083	La_PatPatrouille	Film_00085	Film_00094	Film_00070
+Client_00449 	8	The_Green_Knight	Bullet_Train	Film_00063	Film_00078	Film_00060	Film_00071	Film_00075	Film_00094
+Client_00450 	9	Killers_of_the_Flower_Moon	Film_00098	Film_00089	Film_00061	Anotomie_d_une_chute	Cinq_Nuits_Chez_Freddy	The_Exorcist_Believer	Film_00091	Film_00077
+Client_00451 	8	Film_00087	Coupez	Film_00069	Sans_filtre	Film_00051	Visions	Armageddon_Time	Film_00100
+Client_00452 	4	Film_00057	Film_00082	Everything_Everywhere_All_at_Once	Le_proces_Goldman
+Client_00453 	2	The_Northman	Film_00084
+Client_00454 	6	Top_Gun_Maverick	Film_00079	Cinq_Nuits_Chez_Freddy	Film_00089	La_passion_Dodin_Bouffant	Visions
+Client_00455 	5	Film_00077	Tyalor_Swift_Eras_tour	Film_00053	Coupez	La_passion_Dodin_Bouffant
+Client_00456 	6	Trois_mille_ans_a_t_attendre	Les_Banshees_d_Inisherin	Film_00078	La_Nuit_du_12	Film_00075	Film_00059
+Client_00457 	6	Sans_filtre	Killers_of_the_Flower_Moon	Film_00098	Film_00086	Decision_to_Leave	Agent_libre
+Client_00458 	9	Film_00093	Film_00056	Decision_to_Leave	Film_00084	Coupez	Nope	Film_00095	Film_00072	Film_00052
+Client_00459 	1	Les_Jours_Heureux
+Client_00460 	1	Agent_libre
+Client_00461 	9	La_Nuit_du_12	Film_00057	Film_00071	Film_00075	Film_00061	Anotomie_d_une_chute	The_Exorcist_Believer	Film_00060	Film_00073
+Client_00462 	1	Film_00061
+Client_00463 	7	Visions	Film_00068	Film_00065	Sur_L_Admant	Nope	Film_00100	L_Amour_et_les_forets
+Client_00464 	6	Film_00086	The_Exorcist_Believer	Film_00054	Film_00071	Film_00085	Film_00096
+Client_00465 	5	Film_00052	Vortex	Film_00061	Doctor_Strange_in_the_Multiverse_of_Madness	Film_00066
+Client_00466 	1	Film_00055
+Client_00467 	4	Film_00080	Trois_mille_ans_a_t_attendre	EO	Les_Jours_Heureux
+Client_00468 	7	Film_00066	Film_00056	Pacifiction_Tourment_sur_les_iles	Film_00091	Nope	Leila_et_ses_freres	Doctor_Strange_in_the_Multiverse_of_Madness
+Client_00469 	3	Film_00057	Les_Banshees_d_Inisherin	Pacifiction_Tourment_sur_les_iles
+Client_00470 	8	Ma_cite_evincee	Film_00066	Film_00084	Film_00090	Film_00100	Film_00052	Nope	Les_Banshees_d_Inisherin
+Client_00471 	4	Film_00066	Pinocchio	Je_verrai_toujours_vos_visages	Film_00078
+Client_00472 	2	Film_00075	Film_00071
+Client_00473 	3	Film_00089	Visions	Film_00091
+Client_00474 	7	Film_00061	Ru	Film_00073	La_passion_Dodin_Bouffant	Film_00057	Vampire_humaniste_chercher_suicidaire_consentant	Film_00065
+Client_00475 	1	Le_proces_Goldman
+Client_00476 	9	Killers_of_the_Flower_Moon	The_Marvels	Film_00067	Leila_et_ses_freres	Tyalor_Swift_Eras_tour	Doctor_Strange_in_the_Multiverse_of_Madness	Film_00059	Film_00087	Film_00071
+Client_00477 	1	Film_00078
+Client_00478 	2	La_PatPatrouille	Les_Banshees_d_Inisherin
+Client_00479 	6	EO	Nope	Doctor_Strange_in_the_Multiverse_of_Madness	The_Northman	Film_00070	Film_00065
+Client_00480 	3	Film_00069	Nightmare_Alley	As_Bestas
+Client_00481 	5	Film_00065	Film_00077	Film_00060	The_Marvels	Film_00073
+Client_00482 	2	EO	Caravage
+Client_00483 	7	Film_00069	Les_Jours_Heureux	Film_00098	Les_Rayons_gamma	Elvis	Film_00084	Film_00072
+Client_00484 	2	Film_00062	Film_00073
+Client_00485 	3	Solo	Sans_filtre	Film_00059
+Client_00486 	1	Leila_et_ses_freres
+Client_00487 	7	Film_00086	La_PatPatrouille	La_Nuit_du_12	The_Northman	Armageddon_Time	Ma_cite_evincee	Film_00087
+Client_00488 	7	Film_00070	Film_00057	Les_Trolls_3	Film_00087	Film_00090	Film_00052	Film_00079
+Client_00489 	5	Sans_filtre	Film_00084	La_Nuit_du_12	Film_00082	Film_00057
+Client_00490 	8	Film_00089	Film_00094	Film_00075	Nightmare_Alley	Armageddon_Time	Film_00070	Film_00052	Film_00095
+Client_00491 	3	Film_00069	Film_00091	Solo
+Client_00492 	1	Agent_libre
+Client_00493 	10	Film_00059	Film_00076	Film_00052	Film_00054	Film_00078	Cinq_Nuits_Chez_Freddy	Film_00070	Agent_libre	Ma_cite_evincee	Anotomie_d_une_chute
+Client_00494 	5	Solo	Film_00083	Visions	Trois_mille_ans_a_t_attendre	As_Bestas
+Client_00495 	7	Film_00052	Film_00082	Les_Jours_Heureux	Film_00091	Film_00051	Film_00053	Film_00062
+Client_00496 	6	Solo	Agent_libre	Film_00060	Cinq_Nuits_Chez_Freddy	Film_00075	Film_00082
+Client_00497 	4	Visions	Cinq_Nuits_Chez_Freddy	Film_00098	Les_Banshees_d_Inisherin
+Client_00498 	5	EO	Avatar_La_Voie_de_l_eau	Film_00087	Film_00054	Je_verrai_toujours_vos_visages
+Client_00499 	6	Pinocchio	Les_Banshees_d_Inisherin	Film_00075	Nope	Film_00077	Film_00073
+Client_00500 	1	Film_00089
+Client_00501 	4	Elvis	Film_00061	Film_00054	Les_Rayons_gamma
+Client_00502 	2	Film_00058	Film_00078
+Client_00503 	5	The_Batman	L_Ocean_vu_du_coeur	Film_00072	Film_00056	Film_00058
+Client_00504 	6	Film_00100	Pinocchio	Film_00074	Film_00060	Les_Rayons_gamma	La_PatPatrouille
+Client_00505 	4	Film_00095	Film_00074	Caravage	Film_00054
+Client_00506 	6	Je_verrai_toujours_vos_visages	Killers_of_the_Flower_Moon	The_Exorcist_Believer	Film_00093	Anotomie_d_une_chute	Cinq_Nuits_Chez_Freddy
+Client_00507 	9	Avatar_La_Voie_de_l_eau	Film_00065	Trois_mille_ans_a_t_attendre	The_Green_Knight	Film_00054	Les_Jours_Heureux	Film_00077	Film_00080	Film_00062
+Client_00508 	3	Film_00070	The_Exorcist_Believer	The_Northman
+Client_00509 	7	Film_00051	Solo	Nightmare_Alley	Killers_of_the_Flower_Moon	The_Batman	Film_00088	Film_00053
+Client_00510 	8	Film_00052	Film_00096	Film_00061	Film_00068	Bullet_Train	Film_00076	Film_00051	Film_00057
+Client_00511 	8	Les_Jours_Heureux	EO	Film_00065	Film_00067	Film_00089	La_passion_Dodin_Bouffant	Film_00059	Anotomie_d_une_chute
+Client_00512 	10	Film_00053	The_Batman	Nightmare_Alley	Film_00089	Tyalor_Swift_Eras_tour	Bullet_Train	La_passion_Dodin_Bouffant	Licorice_Pizza	Film_00088	Film_00096
+Client_00513 	7	Film_00093	Film_00083	Film_00070	Visions	La_passion_Dodin_Bouffant	La_Nuit_du_12	Les_Banshees_d_Inisherin
+Client_00514 	8	Film_00092	Film_00082	Film_00090	Avatar_La_Voie_de_l_eau	Film_00079	Film_00098	The_Batman	L_Ocean_vu_du_coeur
+Client_00515 	5	Film_00083	Film_00062	Film_00088	Trois_mille_ans_a_t_attendre	Film_00098
+Client_00516 	6	L_Amour_et_les_forets	Nope	Film_00084	La_Legende_Papillon	L_Ocean_vu_du_coeur	Film_00083
+Client_00517 	6	Nightmare_Alley	Film_00063	Vampire_humaniste_chercher_suicidaire_consentant	Licorice_Pizza	Film_00068	Les_Rayons_gamma
+Client_00518 	6	Film_00068	Film_00066	Film_00076	La_Nuit_du_12	Visions	Caravage
+Client_00519 	2	Ma_cite_evincee	Film_00098
+Client_00520 	7	Film_00085	Film_00082	Film_00095	Film_00072	Film_00055	Anotomie_d_une_chute	Les_Trolls_3
+Client_00521 	8	Film_00064	La_PatPatrouille	La_Nuit_du_12	Film_00096	Film_00077	Film_00056	The_Marvels	Les_Banshees_d_Inisherin
+Client_00522 	4	Pinocchio	La_PatPatrouille	Tyalor_Swift_Eras_tour	Film_00099
+Client_00523 	7	Film_00075	The_Batman	Agent_libre	Film_00061	Film_00063	Film_00064	Film_00067
+Client_00524 	6	Film_00064	Visions	Trois_mille_ans_a_t_attendre	L_Amour_et_les_forets	La_Nuit_du_12	Cinq_Nuits_Chez_Freddy
+Client_00525 	8	Film_00058	Film_00059	Vampire_humaniste_chercher_suicidaire_consentant	Film_00099	Film_00089	Film_00078	Leila_et_ses_freres	Ru
+Client_00526 	7	Les_Jours_Heureux	Film_00084	Coupez	Imitation_Game	Film_00072	La_Nuit_du_12	Anotomie_d_une_chute
+Client_00527 	8	Vortex	Film_00057	Film_00060	Les_Trolls_3	Film_00068	Tyalor_Swift_Eras_tour	Armageddon_Time	Film_00067
+Client_00528 	3	Film_00087	Film_00052	L_Ocean_vu_du_coeur
+Client_00529 	4	EO	Ru	Cinq_Nuits_Chez_Freddy	L_Amour_et_les_forets
+Client_00530 	8	Les_Banshees_d_Inisherin	The_Batman	Visions	Leila_et_ses_freres	Imitation_Game	Film_00066	Film_00079	Film_00062
+Client_00531 	5	Film_00092	Les_Rayons_gamma	Film_00060	La_passion_Dodin_Bouffant	Solo
+Client_00532 	5	Film_00056	Film_00053	EO	Agent_libre	Killers_of_the_Flower_Moon
+Client_00533 	9	Sans_filtre	Film_00083	Film_00068	Film_00078	Film_00087	Film_00085	Avatar_La_Voie_de_l_eau	Film_00097	Cinq_Nuits_Chez_Freddy
+Client_00534 	8	Film_00099	Avatar_La_Voie_de_l_eau	Film_00093	The_Marvels	Film_00078	Film_00080	Film_00057	Top_Gun_Maverick
+Client_00535 	3	Caravage	Le_proces_Goldman	Top_Gun_Maverick
+Client_00536 	2	Top_Gun_Maverick	Film_00094
+Client_00537 	5	Film_00076	Film_00059	Film_00062	Film_00069	Film_00070
+Client_00538 	10	Film_00073	Film_00100	Film_00095	Sans_filtre	Film_00071	Film_00052	Vortex	The_Northman	La_Legende_Papillon	Sur_L_Admant
+Client_00539 	7	Film_00052	Imitation_Game	Film_00067	Film_00071	Leila_et_ses_freres	Pinocchio	Coupez
+Client_00540 	6	Nope	Film_00089	Ru	Vampire_humaniste_chercher_suicidaire_consentant	Film_00091	The_Green_Knight
+Client_00541 	6	Anotomie_d_une_chute	Je_verrai_toujours_vos_visages	Film_00060	Coupez	Trois_mille_ans_a_t_attendre	Film_00081
+Client_00542 	9	Ma_cite_evincee	Bullet_Train	Film_00053	Leila_et_ses_freres	Film_00082	Film_00059	Les_Trolls_3	Film_00061	Film_00079
+Client_00543 	9	Film_00074	Film_00057	Film_00053	Film_00090	Film_00080	Film_00056	Solo	Film_00069	Top_Gun_Maverick
+Client_00544 	9	Film_00086	Vortex	Film_00094	Film_00066	The_Exorcist_Believer	Film_00085	Film_00057	Film_00089	Film_00062
+Client_00545 	1	Film_00077
+Client_00546 	9	Les_Banshees_d_Inisherin	Film_00073	Film_00062	Film_00060	Film_00053	Film_00063	Film_00064	Film_00100	Top_Gun_Maverick
+Client_00547 	7	The_Exorcist_Believer	Film_00073	EO	Sur_L_Admant	Anotomie_d_une_chute	Film_00092	Film_00051
+Client_00548 	10	EO	The_Exorcist_Believer	Film_00057	Pacifiction_Tourment_sur_les_iles	Killers_of_the_Flower_Moon	Trois_mille_ans_a_t_attendre	Les_Trolls_3	Leila_et_ses_freres	Film_00100	Film_00075
+Client_00549 	4	Film_00052	Nightmare_Alley	Top_Gun_Maverick	Film_00087
+Client_00550 	6	Film_00064	L_Ocean_vu_du_coeur	Imitation_Game	Film_00073	Film_00070	Film_00085
+Client_00551 	5	Coupez	Film_00081	Caravage	Film_00058	Vortex
+Client_00552 	8	Coupez	Armageddon_Time	Film_00100	Je_verrai_toujours_vos_visages	Visions	Film_00072	Licorice_Pizza	Film_00064
+Client_00553 	7	Film_00096	Film_00066	Pacifiction_Tourment_sur_les_iles	Sur_L_Admant	Film_00052	Vampire_humaniste_chercher_suicidaire_consentant	Agent_libre
+Client_00554 	2	The_Green_Knight	Je_verrai_toujours_vos_visages
+Client_00555 	4	Film_00090	Film_00071	Film_00077	Film_00072
+Client_00556 	2	Avatar_La_Voie_de_l_eau	Sans_filtre
+Client_00557 	4	The_Batman	Film_00060	Les_Trolls_3	Avatar_La_Voie_de_l_eau
+Client_00558 	4	Film_00075	Film_00099	Film_00072	Film_00064
+Client_00559 	10	Film_00079	The_Exorcist_Believer	Vortex	Film_00055	Film_00065	Top_Gun_Maverick	Sur_L_Admant	Licorice_Pizza	Je_verrai_toujours_vos_visages	L_Amour_et_les_forets
+Client_00560 	10	Film_00099	Film_00059	Decision_to_Leave	Film_00057	Trois_mille_ans_a_t_attendre	Film_00083	Film_00053	Caravage	Doctor_Strange_in_the_Multiverse_of_Madness	EO
+Client_00561 	4	Film_00083	Film_00073	Film_00051	Film_00086
+Client_00562 	1	Film_00061
+Client_00563 	6	Film_00099	The_Northman	The_Green_Knight	Film_00089	La_Nuit_du_12	Film_00058
+Client_00564 	8	La_PatPatrouille	Film_00091	Film_00089	Killers_of_the_Flower_Moon	EO	Armageddon_Time	Film_00058	Pacifiction_Tourment_sur_les_iles
+Client_00565 	6	La_PatPatrouille	EO	Tyalor_Swift_Eras_tour	Solo	Nightmare_Alley	Pinocchio
+Client_00566 	8	Film_00051	Film_00065	Film_00088	Film_00090	Film_00074	Film_00085	Film_00057	Film_00089
+Client_00567 	8	Solo	Film_00099	Cinq_Nuits_Chez_Freddy	Film_00053	Ru	Pacifiction_Tourment_sur_les_iles	Les_Trolls_3	Film_00057
+Client_00568 	7	Elvis	Decision_to_Leave	Coupez	Pinocchio	Film_00084	Film_00098	Film_00089
+Client_00569 	1	Film_00100
+Client_00570 	7	Film_00089	Everything_Everywhere_All_at_Once	Film_00065	Film_00098	Les_Banshees_d_Inisherin	Bullet_Train	The_Exorcist_Believer
+Client_00571 	1	The_Exorcist_Believer
+Client_00572 	2	Film_00056	Film_00076
+Client_00573 	9	Nightmare_Alley	Film_00077	Film_00054	Film_00065	Everything_Everywhere_All_at_Once	The_Batman	Film_00055	Film_00094	Tyalor_Swift_Eras_tour
+Client_00574 	5	La_Nuit_du_12	Film_00053	Cinq_Nuits_Chez_Freddy	Les_Rayons_gamma	Trois_mille_ans_a_t_attendre
+Client_00575 	8	L_Amour_et_les_forets	The_Batman	Film_00097	Film_00073	Les_Jours_Heureux	Visions	Film_00065	As_Bestas
+Client_00576 	3	Film_00065	Visions	Pinocchio
+Client_00577 	4	Film_00066	Film_00081	Sans_filtre	L_Ocean_vu_du_coeur
+Client_00578 	6	The_Northman	Film_00082	Visions	Coupez	Ru	Les_Jours_Heureux
+Client_00579 	10	Licorice_Pizza	Film_00096	Visions	The_Northman	Film_00083	Film_00091	Caravage	Agent_libre	Film_00079	L_Amour_et_les_forets
+Client_00580 	5	Film_00082	Film_00052	Film_00061	Film_00064	Ma_cite_evincee
+Client_00581 	6	Film_00051	Film_00064	Film_00095	Film_00099	The_Northman	Avatar_La_Voie_de_l_eau
+Client_00582 	7	Film_00088	Film_00091	Decision_to_Leave	Film_00093	Licorice_Pizza	Solo	Film_00096
+Client_00583 	1	Les_Banshees_d_Inisherin
+Client_00584 	1	Film_00073
+Client_00585 	2	Caravage	Everything_Everywhere_All_at_Once
+Client_00586 	1	Film_00063
+Client_00587 	5	Film_00099	Film_00094	Nightmare_Alley	Film_00091	Film_00053
+Client_00588 	4	Film_00091	Leila_et_ses_freres	La_Legende_Papillon	Film_00070
+Client_00589 	4	Avatar_La_Voie_de_l_eau	Film_00053	Film_00086	Film_00072
+Client_00590 	9	Film_00056	Film_00064	Film_00083	Solo	Film_00055	Film_00070	La_PatPatrouille	Film_00068	Film_00057
+Client_00591 	8	Leila_et_ses_freres	Film_00055	Film_00072	Film_00068	Film_00084	Film_00089	Tyalor_Swift_Eras_tour	Film_00085
+Client_00592 	2	Film_00082	Film_00077
+Client_00593 	6	Nightmare_Alley	Tyalor_Swift_Eras_tour	Film_00085	Film_00084	Agent_libre	Film_00079
+Client_00594 	7	Film_00096	Film_00056	Nope	Pacifiction_Tourment_sur_les_iles	Film_00084	Film_00058	Film_00083
+Client_00595 	2	Film_00094	Film_00068
+Client_00596 	5	La_Nuit_du_12	Trois_mille_ans_a_t_attendre	Film_00092	Film_00066	The_Northman
+Client_00597 	9	Film_00082	Film_00066	Film_00072	Armageddon_Time	The_Northman	Film_00090	Film_00098	Film_00069	Anotomie_d_une_chute
+Client_00598 	10	Avatar_La_Voie_de_l_eau	Bullet_Train	As_Bestas	Film_00093	Trois_mille_ans_a_t_attendre	La_Nuit_du_12	The_Batman	The_Exorcist_Believer	Nope	Film_00095
+Client_00599 	2	La_PatPatrouille	Les_Rayons_gamma
+Client_00600 	3	Film_00078	Decision_to_Leave	Film_00096
+Client_00601 	4	Les_Banshees_d_Inisherin	Film_00062	Tyalor_Swift_Eras_tour	La_PatPatrouille
+Client_00602 	8	Leila_et_ses_freres	Vampire_humaniste_chercher_suicidaire_consentant	Killers_of_the_Flower_Moon	Film_00068	La_Legende_Papillon	Film_00088	Film_00063	Le_proces_Goldman
+Client_00603 	2	Bullet_Train	Film_00065
+Client_00604 	3	Caravage	Imitation_Game	L_Ocean_vu_du_coeur
+Client_00605 	8	Film_00059	Ru	Film_00064	Sur_L_Admant	Film_00054	Nightmare_Alley	Film_00090	Film_00081
+Client_00606 	9	Film_00085	Visions	Film_00073	Caravage	Cinq_Nuits_Chez_Freddy	Vortex	Nope	Film_00082	Film_00091
+Client_00607 	6	Film_00065	Film_00089	Film_00064	Film_00092	Everything_Everywhere_All_at_Once	Film_00070
+Client_00608 	6	Film_00058	Film_00087	Agent_libre	Film_00065	Elvis	Film_00100
+Client_00609 	1	Film_00060
+Client_00610 	1	Film_00068
+Client_00611 	6	Film_00073	L_Amour_et_les_forets	Trois_mille_ans_a_t_attendre	Film_00098	Film_00074	Film_00078
+Client_00612 	5	Film_00080	Film_00058	Film_00095	Film_00084	La_Legende_Papillon
+Client_00613 	8	Imitation_Game	Solo	Caravage	Film_00080	Film_00095	Film_00051	Anotomie_d_une_chute	Sans_filtre
+Client_00614 	2	Tyalor_Swift_Eras_tour	The_Northman
+Client_00615 	7	Film_00051	Everything_Everywhere_All_at_Once	L_Ocean_vu_du_coeur	Film_00055	Film_00094	Je_verrai_toujours_vos_visages	The_Batman
+Client_00616 	4	Doctor_Strange_in_the_Multiverse_of_Madness	The_Northman	Licorice_Pizza	Pacifiction_Tourment_sur_les_iles
+Client_00617 	2	Vampire_humaniste_chercher_suicidaire_consentant	Cinq_Nuits_Chez_Freddy
+Client_00618 	7	Film_00076	Film_00066	Film_00086	Film_00080	Film_00057	Film_00100	La_Legende_Papillon
+Client_00619 	5	Film_00053	Film_00073	EO	Film_00062	Top_Gun_Maverick
+Client_00620 	8	La_passion_Dodin_Bouffant	Film_00064	Doctor_Strange_in_the_Multiverse_of_Madness	Film_00051	Les_Banshees_d_Inisherin	Film_00088	The_Exorcist_Believer	La_Nuit_du_12
+Client_00621 	9	Film_00084	Film_00082	Solo	Top_Gun_Maverick	L_Amour_et_les_forets	Film_00085	Everything_Everywhere_All_at_Once	Film_00092	Film_00053
+Client_00622 	1	Sans_filtre
+Client_00623 	1	Licorice_Pizza
+Client_00624 	4	Film_00095	Film_00068	Film_00073	Film_00065
+Client_00625 	2	L_Ocean_vu_du_coeur	Film_00078
+Client_00626 	5	Les_Rayons_gamma	Film_00057	Decision_to_Leave	Film_00087	Anotomie_d_une_chute
+Client_00627 	2	Avatar_La_Voie_de_l_eau	Film_00061
+Client_00628 	10	Film_00100	Everything_Everywhere_All_at_Once	The_Marvels	Film_00075	Film_00098	Killers_of_the_Flower_Moon	Nightmare_Alley	Film_00096	Film_00077	Film_00085
+Client_00629 	6	Film_00076	Anotomie_d_une_chute	Film_00077	Film_00081	Film_00063	Nope
+Client_00630 	8	Film_00076	Film_00062	Imitation_Game	Les_Rayons_gamma	The_Green_Knight	Film_00075	Film_00081	Film_00068
+Client_00631 	2	Avatar_La_Voie_de_l_eau	Le_proces_Goldman
+Client_00632 	8	Vortex	Film_00069	Film_00079	La_passion_Dodin_Bouffant	La_Nuit_du_12	Film_00068	Everything_Everywhere_All_at_Once	The_Marvels
+Client_00633 	7	Sur_L_Admant	Trois_mille_ans_a_t_attendre	Caravage	Coupez	Film_00053	Film_00058	Film_00078
+Client_00634 	2	Les_Trolls_3	Film_00084
+Client_00635 	6	Killers_of_the_Flower_Moon	Nope	Sur_L_Admant	La_Nuit_du_12	Film_00076	Sans_filtre
+Client_00636 	3	Solo	Tyalor_Swift_Eras_tour	Killers_of_the_Flower_Moon
+Client_00637 	6	Les_Trolls_3	Film_00076	Cinq_Nuits_Chez_Freddy	Film_00065	Film_00059	The_Exorcist_Believer
+Client_00638 	2	Film_00075	Film_00095
+Client_00639 	3	Armageddon_Time	Visions	Film_00053
+Client_00640 	7	Coupez	Film_00084	Imitation_Game	Film_00066	Film_00095	Film_00082	Film_00075
+Client_00641 	4	Film_00075	Film_00051	Film_00067	Top_Gun_Maverick
+Client_00642 	8	Pacifiction_Tourment_sur_les_iles	EO	Film_00067	Film_00082	Film_00080	Film_00066	Film_00099	Film_00055
+Client_00643 	1	Solo
+Client_00644 	2	Film_00093	Les_Banshees_d_Inisherin
+Client_00645 	5	Film_00091	EO	Film_00085	Film_00081	Film_00051
+Client_00646 	6	Film_00059	Film_00072	The_Green_Knight	Les_Trolls_3	Caravage	Film_00095
+Client_00647 	8	Decision_to_Leave	Film_00059	Film_00075	Film_00076	Film_00054	Film_00090	Film_00052	Leila_et_ses_freres
+Client_00648 	1	Film_00086
+Client_00649 	1	Film_00085
+Client_00650 	3	Sans_filtre	Film_00093	Film_00062
+Client_00651 	8	Ma_cite_evincee	Film_00076	Film_00070	La_passion_Dodin_Bouffant	Trois_mille_ans_a_t_attendre	Film_00099	Leila_et_ses_freres	Everything_Everywhere_All_at_Once
+Client_00652 	2	Trois_mille_ans_a_t_attendre	L_Ocean_vu_du_coeur
+Client_00653 	6	Film_00100	The_Exorcist_Believer	As_Bestas	Film_00098	Film_00089	Film_00095
+Client_00654 	1	Top_Gun_Maverick
+Client_00655 	10	Cinq_Nuits_Chez_Freddy	Decision_to_Leave	Film_00092	Film_00067	Film_00066	Vortex	Solo	Film_00091	The_Marvels	Doctor_Strange_in_the_Multiverse_of_Madness
+Client_00656 	3	The_Northman	Film_00092	L_Amour_et_les_forets
+Client_00657 	7	Film_00079	Elvis	Pacifiction_Tourment_sur_les_iles	Vortex	Doctor_Strange_in_the_Multiverse_of_Madness	Film_00070	The_Exorcist_Believer
+Client_00658 	3	The_Green_Knight	Film_00074	Film_00060
+Client_00659 	9	Film_00054	Film_00061	Anotomie_d_une_chute	Je_verrai_toujours_vos_visages	Film_00055	Les_Trolls_3	Les_Banshees_d_Inisherin	Film_00076	Film_00072
+Client_00660 	8	Pacifiction_Tourment_sur_les_iles	Film_00086	Killers_of_the_Flower_Moon	Film_00057	La_Nuit_du_12	Film_00060	Tyalor_Swift_Eras_tour	Film_00083
+Client_00661 	4	Film_00096	Everything_Everywhere_All_at_Once	Film_00073	Le_proces_Goldman
+Client_00662 	9	Coupez	Film_00056	Film_00083	La_Legende_Papillon	Film_00085	Ru	Film_00086	Les_Trolls_3	Film_00052
+Client_00663 	10	Tyalor_Swift_Eras_tour	Film_00100	Leila_et_ses_freres	Film_00094	Film_00060	Pacifiction_Tourment_sur_les_iles	La_PatPatrouille	Film_00059	Film_00066	Sur_L_Admant
+Client_00664 	9	Je_verrai_toujours_vos_visages	Film_00082	Film_00077	Les_Trolls_3	Film_00088	Film_00065	The_Marvels	Le_proces_Goldman	Film_00060
+Client_00665 	1	Film_00100
+Client_00666 	1	Ru
+Client_00667 	8	The_Exorcist_Believer	Film_00076	Film_00074	Agent_libre	Film_00052	Imitation_Game	Elvis	Le_proces_Goldman
+Client_00668 	10	Killers_of_the_Flower_Moon	Film_00098	Film_00061	Everything_Everywhere_All_at_Once	Film_00062	Avatar_La_Voie_de_l_eau	Film_00075	Film_00068	Sans_filtre	Film_00070
+Client_00669 	10	Elvis	Film_00055	Everything_Everywhere_All_at_Once	Armageddon_Time	As_Bestas	Film_00083	Nope	Pacifiction_Tourment_sur_les_iles	Film_00084	Film_00095
+Client_00670 	7	Bullet_Train	Film_00055	Agent_libre	Film_00096	La_PatPatrouille	Top_Gun_Maverick	Sur_L_Admant
+Client_00671 	6	Film_00084	Ma_cite_evincee	Tyalor_Swift_Eras_tour	Film_00063	Film_00055	Everything_Everywhere_All_at_Once
+Client_00672 	1	Film_00074
+Client_00673 	5	Film_00091	Film_00076	Film_00078	Film_00075	Film_00085
+Client_00674 	3	Film_00061	Coupez	Film_00052
+Client_00675 	2	The_Green_Knight	Les_Jours_Heureux
+Client_00676 	4	Film_00075	Film_00059	Ma_cite_evincee	Solo
+Client_00677 	10	Pacifiction_Tourment_sur_les_iles	Film_00052	Film_00082	Film_00091	Armageddon_Time	Film_00066	Film_00092	Film_00080	Film_00053	Les_Trolls_3
+Client_00678 	9	Decision_to_Leave	Pinocchio	Film_00051	Film_00090	Film_00065	L_Amour_et_les_forets	Anotomie_d_une_chute	Film_00068	The_Green_Knight
+Client_00679 	10	Vortex	Film_00064	Sur_L_Admant	Les_Rayons_gamma	La_PatPatrouille	Film_00086	Film_00089	Film_00087	The_Northman	Bullet_Train
+Client_00680 	1	The_Batman
+Client_00681 	6	Film_00053	Trois_mille_ans_a_t_attendre	Tyalor_Swift_Eras_tour	Sur_L_Admant	Film_00090	Pacifiction_Tourment_sur_les_iles
+Client_00682 	1	Film_00086
+Client_00683 	1	Film_00061
+Client_00684 	7	Film_00072	Solo	Je_verrai_toujours_vos_visages	EO	The_Exorcist_Believer	Film_00096	La_passion_Dodin_Bouffant
+Client_00685 	9	Film_00096	Trois_mille_ans_a_t_attendre	As_Bestas	Film_00071	Film_00064	Film_00090	Film_00080	Vortex	Tyalor_Swift_Eras_tour
+Client_00686 	9	Film_00054	Film_00060	Film_00080	Film_00075	Visions	Film_00059	Les_Rayons_gamma	Anotomie_d_une_chute	Film_00064
+Client_00687 	8	Tyalor_Swift_Eras_tour	Caravage	Agent_libre	Les_Trolls_3	EO	Film_00066	Film_00056	Film_00071
+Client_00688 	4	Film_00088	Top_Gun_Maverick	Film_00065	Decision_to_Leave
+Client_00689 	2	Nightmare_Alley	Ma_cite_evincee
+Client_00690 	5	Film_00072	Leila_et_ses_freres	Film_00074	Les_Trolls_3	Les_Banshees_d_Inisherin
+Client_00691 	1	Les_Rayons_gamma
+Client_00692 	2	Film_00074	Film_00077
+Client_00693 	6	Leila_et_ses_freres	Film_00098	Film_00097	Film_00092	Cinq_Nuits_Chez_Freddy	Film_00054
+Client_00694 	2	Everything_Everywhere_All_at_Once	La_PatPatrouille
+Client_00695 	7	Film_00096	Tyalor_Swift_Eras_tour	Film_00087	Le_proces_Goldman	Film_00054	Les_Trolls_3	Avatar_La_Voie_de_l_eau
+Client_00696 	7	La_passion_Dodin_Bouffant	Les_Trolls_3	Film_00099	Killers_of_the_Flower_Moon	Licorice_Pizza	EO	Elvis
+Client_00697 	4	Les_Jours_Heureux	Film_00075	Film_00095	Film_00056
+Client_00698 	8	Film_00090	Imitation_Game	Film_00056	Film_00100	Film_00086	Je_verrai_toujours_vos_visages	Sans_filtre	Film_00075
+Client_00699 	1	Sans_filtre
+Client_00700 	5	Film_00060	Film_00065	Elvis	Tyalor_Swift_Eras_tour	Film_00064
+Client_00701 	2	Caravage	The_Northman
+Client_00702 	4	Film_00065	Film_00054	Anotomie_d_une_chute	Le_proces_Goldman
+Client_00703 	10	Film_00084	Visions	Pinocchio	Ma_cite_evincee	Je_verrai_toujours_vos_visages	Anotomie_d_une_chute	Caravage	Doctor_Strange_in_the_Multiverse_of_Madness	Cinq_Nuits_Chez_Freddy	The_Northman
+Client_00704 	9	Film_00100	Film_00093	Film_00078	Film_00051	Film_00089	Film_00077	Film_00080	Coupez	Elvis
+Client_00705 	3	Tyalor_Swift_Eras_tour	Film_00086	Film_00066
+Client_00706 	4	La_Legende_Papillon	Ma_cite_evincee	Agent_libre	Film_00091
+Client_00707 	5	Film_00065	Film_00082	La_PatPatrouille	Film_00051	Film_00095
+Client_00708 	1	Les_Trolls_3
+Client_00709 	2	Film_00068	Nope
+Client_00710 	10	Film_00065	Caravage	Sur_L_Admant	Film_00082	The_Green_Knight	Film_00087	Film_00067	Film_00057	The_Batman	Film_00079
+Client_00711 	1	Visions
+Client_00712 	8	Pinocchio	Film_00071	Decision_to_Leave	Top_Gun_Maverick	Licorice_Pizza	The_Green_Knight	Ru	The_Batman
+Client_00713 	1	Film_00066
+Client_00714 	6	Film_00057	Film_00080	Everything_Everywhere_All_at_Once	Film_00076	Elvis	Tyalor_Swift_Eras_tour
+Client_00715 	7	Film_00061	Licorice_Pizza	Film_00060	Film_00065	Film_00082	Vampire_humaniste_chercher_suicidaire_consentant	Film_00093
+Client_00716 	1	L_Amour_et_les_forets
+Client_00717 	1	The_Marvels
+Client_00718 	9	Film_00077	Imitation_Game	L_Ocean_vu_du_coeur	Avatar_La_Voie_de_l_eau	Decision_to_Leave	The_Green_Knight	The_Batman	Coupez	Film_00097
+Client_00719 	9	The_Exorcist_Believer	Je_verrai_toujours_vos_visages	Film_00067	Film_00095	Film_00078	La_Legende_Papillon	Film_00073	Film_00053	Sur_L_Admant
+Client_00720 	9	Film_00068	Top_Gun_Maverick	Film_00079	Film_00085	Les_Trolls_3	Film_00064	Film_00078	Film_00080	L_Ocean_vu_du_coeur
+Client_00721 	4	Coupez	Agent_libre	La_Nuit_du_12	Film_00058
+Client_00722 	5	Film_00084	Ru	Les_Banshees_d_Inisherin	Coupez	Film_00068
+Client_00723 	10	Film_00074	Solo	Film_00054	Nope	Film_00058	Film_00055	Film_00089	Film_00094	Film_00092	Film_00060
+Client_00724 	1	The_Exorcist_Believer
+Client_00725 	9	Film_00089	Film_00058	Film_00063	Everything_Everywhere_All_at_Once	Film_00098	Film_00100	La_Legende_Papillon	Film_00064	Tyalor_Swift_Eras_tour
+Client_00726 	5	The_Green_Knight	The_Batman	Film_00071	Film_00068	Solo
+Client_00727 	8	Film_00063	Film_00082	Film_00099	Film_00073	Top_Gun_Maverick	Ma_cite_evincee	Film_00094	Film_00083
+Client_00728 	7	La_Nuit_du_12	Film_00061	Film_00060	Solo	Film_00080	The_Marvels	Doctor_Strange_in_the_Multiverse_of_Madness
+Client_00729 	9	Film_00078	Les_Banshees_d_Inisherin	Film_00084	Film_00057	Film_00074	L_Amour_et_les_forets	As_Bestas	La_passion_Dodin_Bouffant	Vortex
+Client_00730 	6	Film_00067	Film_00063	Visions	Film_00093	Film_00052	The_Exorcist_Believer
+Client_00731 	1	The_Northman
+Client_00732 	9	Film_00056	Pinocchio	Top_Gun_Maverick	Visions	Film_00073	Film_00060	The_Batman	Film_00088	Film_00089
+Client_00733 	10	Film_00086	Film_00070	Film_00085	Film_00099	Agent_libre	Film_00098	Visions	Nightmare_Alley	Film_00092	Film_00068
+Client_00734 	3	Film_00092	Vortex	L_Ocean_vu_du_coeur
+Client_00735 	1	Trois_mille_ans_a_t_attendre
+Client_00736 	4	Film_00087	Sans_filtre	Vortex	Licorice_Pizza
+Client_00737 	3	Film_00087	La_PatPatrouille	Vampire_humaniste_chercher_suicidaire_consentant
+Client_00738 	7	The_Green_Knight	Film_00091	Film_00063	L_Ocean_vu_du_coeur	Imitation_Game	Film_00085	Film_00088
+Client_00739 	10	Visions	Film_00062	Film_00080	Film_00076	Film_00063	Film_00096	Caravage	Film_00051	Film_00072	As_Bestas
+Client_00740 	10	Film_00098	Pacifiction_Tourment_sur_les_iles	Top_Gun_Maverick	La_Nuit_du_12	Film_00055	Les_Trolls_3	Film_00079	Film_00097	The_Marvels	Leila_et_ses_freres
+Client_00741 	4	Les_Rayons_gamma	Solo	Film_00067	As_Bestas
+Client_00742 	2	Film_00099	Film_00058
+Client_00743 	5	La_PatPatrouille	Film_00051	La_Legende_Papillon	Les_Trolls_3	Elvis
+Client_00744 	6	Tyalor_Swift_Eras_tour	La_passion_Dodin_Bouffant	Pacifiction_Tourment_sur_les_iles	Coupez	Nope	Film_00088
+Client_00745 	3	La_PatPatrouille	Bullet_Train	Killers_of_the_Flower_Moon
+Client_00746 	3	Film_00058	Pinocchio	Film_00060
+Client_00747 	2	Film_00076	Coupez
+Client_00748 	7	Film_00077	Film_00090	The_Batman	Les_Banshees_d_Inisherin	EO	Sans_filtre	Film_00092
+Client_00749 	2	The_Batman	EO
+Client_00750 	6	Film_00086	As_Bestas	Film_00097	Pacifiction_Tourment_sur_les_iles	Film_00056	Film_00074
+Client_00751 	2	Film_00094	Tyalor_Swift_Eras_tour
+Client_00752 	4	Film_00055	Pinocchio	Film_00061	Film_00075
+Client_00753 	1	Visions
+Client_00754 	2	Film_00054	Bullet_Train
+Client_00755 	6	Sur_L_Admant	Le_proces_Goldman	The_Exorcist_Believer	L_Ocean_vu_du_coeur	Film_00061	Film_00051
+Client_00756 	4	Film_00094	Film_00080	Film_00056	Film_00062
+Client_00757 	8	Solo	Film_00065	Coupez	Film_00083	Agent_libre	Les_Jours_Heureux	Licorice_Pizza	Film_00073
+Client_00758 	6	Film_00053	Film_00063	Caravage	Coupez	Film_00097	Leila_et_ses_freres
+Client_00759 	7	Imitation_Game	Film_00052	Film_00094	Caravage	Avatar_La_Voie_de_l_eau	Film_00085	Film_00073
+Client_00760 	6	Nope	Solo	Film_00083	Film_00089	Sans_filtre	Film_00090
+Client_00761 	8	Film_00076	Film_00079	Film_00096	Film_00085	Trois_mille_ans_a_t_attendre	Film_00064	The_Exorcist_Believer	Film_00082
+Client_00762 	6	Top_Gun_Maverick	Film_00069	Film_00080	Caravage	Pacifiction_Tourment_sur_les_iles	Les_Banshees_d_Inisherin
+Client_00763 	6	Film_00081	Killers_of_the_Flower_Moon	Everything_Everywhere_All_at_Once	Film_00054	Leila_et_ses_freres	As_Bestas
+Client_00764 	3	Film_00072	Top_Gun_Maverick	Film_00056
+Client_00765 	6	Film_00066	Caravage	Anotomie_d_une_chute	Solo	Agent_libre	Sans_filtre
+Client_00766 	6	Film_00053	Film_00099	Film_00090	Film_00073	Film_00081	Killers_of_the_Flower_Moon
+Client_00767 	9	Film_00091	Film_00057	Pacifiction_Tourment_sur_les_iles	Film_00088	Solo	Film_00066	Film_00055	Film_00058	Bullet_Train
+Client_00768 	8	Film_00062	Visions	La_Nuit_du_12	Film_00061	Film_00056	Armageddon_Time	Caravage	Leila_et_ses_freres
+Client_00769 	3	Film_00053	Leila_et_ses_freres	Vampire_humaniste_chercher_suicidaire_consentant
+Client_00770 	10	Film_00054	Film_00072	Film_00052	The_Green_Knight	Film_00095	Les_Banshees_d_Inisherin	Film_00087	Doctor_Strange_in_the_Multiverse_of_Madness	EO	Film_00094
+Client_00771 	1	EO
+Client_00772 	5	The_Batman	Les_Rayons_gamma	Killers_of_the_Flower_Moon	Agent_libre	Film_00057
+Client_00773 	10	Cinq_Nuits_Chez_Freddy	Film_00055	As_Bestas	Anotomie_d_une_chute	Licorice_Pizza	La_PatPatrouille	The_Green_Knight	Film_00072	Film_00065	Film_00057
+Client_00774 	5	La_PatPatrouille	Film_00057	Film_00054	Film_00064	Film_00082
+Client_00775 	5	Film_00089	Film_00081	Film_00087	Film_00092	Film_00056
+Client_00776 	6	Leila_et_ses_freres	Film_00092	Cinq_Nuits_Chez_Freddy	Film_00074	Armageddon_Time	Doctor_Strange_in_the_Multiverse_of_Madness
+Client_00777 	2	La_Nuit_du_12	Film_00089
+Client_00778 	8	The_Marvels	EO	Film_00091	Armageddon_Time	Film_00051	La_passion_Dodin_Bouffant	Film_00068	Doctor_Strange_in_the_Multiverse_of_Madness
+Client_00779 	10	Film_00066	The_Northman	Caravage	Film_00087	Top_Gun_Maverick	Film_00100	Sur_L_Admant	Film_00076	Film_00079	Le_proces_Goldman
+Client_00780 	4	Film_00070	Film_00052	Film_00072	The_Green_Knight
+Client_00781 	4	Killers_of_the_Flower_Moon	Film_00086	Film_00075	Film_00081
+Client_00782 	4	Film_00099	EO	The_Green_Knight	Everything_Everywhere_All_at_Once
+Client_00783 	2	The_Batman	Film_00069
+Client_00784 	6	Film_00091	Film_00081	Cinq_Nuits_Chez_Freddy	Film_00059	Pinocchio	EO
+Client_00785 	2	Armageddon_Time	Film_00093
+Client_00786 	4	Film_00068	Le_proces_Goldman	Agent_libre	Sans_filtre
+Client_00787 	4	Film_00070	Film_00090	Anotomie_d_une_chute	Sans_filtre
+Client_00788 	8	Decision_to_Leave	Killers_of_the_Flower_Moon	Film_00099	Film_00085	Film_00072	Film_00051	Sans_filtre	Top_Gun_Maverick
+Client_00789 	10	Film_00063	Film_00054	Avatar_La_Voie_de_l_eau	Agent_libre	Film_00087	Film_00068	Le_proces_Goldman	Les_Rayons_gamma	Film_00078	Armageddon_Time
+Client_00790 	4	EO	Trois_mille_ans_a_t_attendre	Caravage	Film_00073
+Client_00791 	3	Nightmare_Alley	Film_00068	Visions
+Client_00792 	3	Les_Rayons_gamma	Tyalor_Swift_Eras_tour	Film_00054
+Client_00793 	6	Le_proces_Goldman	Film_00095	Solo	Les_Banshees_d_Inisherin	Film_00063	Film_00079
+Client_00794 	10	Licorice_Pizza	Pacifiction_Tourment_sur_les_iles	Vortex	Film_00062	Film_00084	L_Amour_et_les_forets	Film_00072	Nope	Top_Gun_Maverick	Film_00065
+Client_00795 	6	The_Northman	Sur_L_Admant	Film_00080	Film_00063	Film_00051	Film_00095
+Client_00796 	5	Everything_Everywhere_All_at_Once	Film_00054	Film_00078	Film_00052	Film_00073
+Client_00797 	5	Les_Banshees_d_Inisherin	Le_proces_Goldman	Film_00059	Coupez	Film_00091
+Client_00798 	8	Film_00056	Film_00081	Film_00077	Vortex	Licorice_Pizza	Cinq_Nuits_Chez_Freddy	Sans_filtre	Film_00065
+Client_00799 	5	Film_00058	La_passion_Dodin_Bouffant	Les_Jours_Heureux	Film_00091	As_Bestas
+Client_00800 	2	Film_00062	Film_00063
+Client_00801 	4	Agent_libre	Avatar_La_Voie_de_l_eau	Film_00097	Anotomie_d_une_chute
+Client_00802 	1	Decision_to_Leave
+Client_00803 	7	Film_00058	Film_00070	Film_00083	Film_00089	Ru	Les_Trolls_3	Vampire_humaniste_chercher_suicidaire_consentant
+Client_00804 	1	Anotomie_d_une_chute
+Client_00805 	6	Film_00084	Film_00056	Pinocchio	Film_00094	The_Exorcist_Believer	La_Legende_Papillon
+Client_00806 	6	Film_00067	Film_00093	Film_00069	Coupez	Film_00077	Anotomie_d_une_chute
+Client_00807 	4	Doctor_Strange_in_the_Multiverse_of_Madness	Decision_to_Leave	Les_Trolls_3	Film_00058
+Client_00808 	8	Film_00061	Nope	L_Ocean_vu_du_coeur	Film_00088	L_Amour_et_les_forets	Film_00063	Film_00098	Caravage
+Client_00809 	2	Film_00066	Film_00094
+Client_00810 	1	Film_00094
+Client_00811 	10	Les_Trolls_3	Anotomie_d_une_chute	Film_00055	L_Ocean_vu_du_coeur	Visions	Film_00086	Les_Rayons_gamma	Film_00062	Ma_cite_evincee	Vampire_humaniste_chercher_suicidaire_consentant
+Client_00812 	10	Imitation_Game	Film_00090	Film_00093	Film_00063	Film_00095	Film_00096	Film_00068	Licorice_Pizza	La_Nuit_du_12	Cinq_Nuits_Chez_Freddy
+Client_00813 	9	Film_00052	Film_00096	Film_00076	EO	Film_00087	Ru	The_Green_Knight	Film_00098	Caravage
+Client_00814 	8	Imitation_Game	Pinocchio	Film_00096	Film_00061	Film_00070	Je_verrai_toujours_vos_visages	Les_Trolls_3	Armageddon_Time
+Client_00815 	5	The_Exorcist_Believer	Film_00082	Film_00073	The_Marvels	Film_00083
+Client_00816 	8	Film_00062	Film_00059	Film_00063	The_Green_Knight	Film_00099	As_Bestas	Film_00066	Film_00075
+Client_00817 	7	The_Northman	Cinq_Nuits_Chez_Freddy	Pacifiction_Tourment_sur_les_iles	Film_00079	Film_00090	As_Bestas	Les_Jours_Heureux
+Client_00818 	1	Top_Gun_Maverick
+Client_00819 	9	Film_00082	Caravage	Film_00051	Film_00070	Film_00086	Film_00057	Coupez	La_passion_Dodin_Bouffant	Film_00055
+Client_00820 	3	Ma_cite_evincee	Imitation_Game	Film_00053
+Client_00821 	6	Film_00081	Nightmare_Alley	Film_00057	The_Northman	The_Exorcist_Believer	Film_00054
+Client_00822 	9	La_Nuit_du_12	Film_00057	Sans_filtre	Film_00087	Film_00073	Film_00094	Licorice_Pizza	Film_00089	Film_00095
+Client_00823 	2	Top_Gun_Maverick	The_Exorcist_Believer
+Client_00824 	10	Sans_filtre	Ma_cite_evincee	The_Marvels	Licorice_Pizza	Visions	Film_00056	EO	Les_Rayons_gamma	Vampire_humaniste_chercher_suicidaire_consentant	Film_00090
+Client_00825 	5	Film_00085	The_Exorcist_Believer	Elvis	Film_00078	Film_00057
+Client_00826 	7	Sur_L_Admant	Film_00083	Film_00055	Everything_Everywhere_All_at_Once	Film_00059	Film_00073	Bullet_Train
+Client_00827 	10	Film_00069	Film_00057	La_Nuit_du_12	Film_00071	Film_00070	Film_00098	Film_00092	Visions	Film_00083	Film_00097
+Client_00828 	9	Les_Banshees_d_Inisherin	Le_proces_Goldman	L_Ocean_vu_du_coeur	Film_00074	Film_00079	Film_00092	Film_00065	Film_00087	Film_00099
+Client_00829 	3	Film_00084	Film_00076	Ma_cite_evincee
+Client_00830 	9	Film_00055	Killers_of_the_Flower_Moon	Sur_L_Admant	Film_00090	Film_00064	Film_00080	Imitation_Game	La_passion_Dodin_Bouffant	Film_00086
+Client_00831 	2	Film_00099	Film_00085
+Client_00832 	10	Film_00099	EO	Film_00062	Les_Banshees_d_Inisherin	Film_00094	The_Marvels	La_Legende_Papillon	Film_00065	Film_00078	Nightmare_Alley
+Client_00833 	5	Nope	Film_00084	Je_verrai_toujours_vos_visages	Solo	Agent_libre
+Client_00834 	10	Licorice_Pizza	Film_00057	Killers_of_the_Flower_Moon	L_Amour_et_les_forets	Leila_et_ses_freres	Film_00055	Film_00081	Film_00072	Film_00090	Film_00070
+Client_00835 	7	Film_00099	Decision_to_Leave	Film_00057	Les_Jours_Heureux	Film_00096	Film_00083	Film_00093
+Client_00836 	3	Le_proces_Goldman	Film_00059	Licorice_Pizza
+Client_00837 	5	Film_00091	Film_00087	Film_00053	Leila_et_ses_freres	Film_00063
+Client_00838 	8	Film_00059	Sur_L_Admant	Film_00075	Film_00084	Je_verrai_toujours_vos_visages	Film_00055	The_Northman	Film_00067
+Client_00839 	4	Film_00075	Cinq_Nuits_Chez_Freddy	Bullet_Train	Film_00067
+Client_00840 	7	Vampire_humaniste_chercher_suicidaire_consentant	Film_00075	Film_00100	Film_00063	Tyalor_Swift_Eras_tour	Film_00082	Film_00093
+Client_00841 	9	Film_00090	Film_00091	The_Batman	Film_00094	La_PatPatrouille	Film_00097	Film_00100	Nightmare_Alley	Film_00065
+Client_00842 	5	L_Amour_et_les_forets	Film_00077	Film_00080	Film_00096	Avatar_La_Voie_de_l_eau
+Client_00843 	8	Pacifiction_Tourment_sur_les_iles	Film_00071	The_Exorcist_Believer	Nightmare_Alley	Film_00099	Vortex	Le_proces_Goldman	Vampire_humaniste_chercher_suicidaire_consentant
+Client_00844 	2	Film_00081	Vampire_humaniste_chercher_suicidaire_consentant
+Client_00845 	6	Film_00052	Film_00086	Film_00053	The_Batman	Film_00093	Anotomie_d_une_chute
+Client_00846 	10	The_Batman	Film_00070	La_passion_Dodin_Bouffant	Solo	L_Amour_et_les_forets	Film_00077	Film_00099	The_Exorcist_Believer	Film_00088	Film_00085
+Client_00847 	3	Les_Rayons_gamma	The_Batman	La_Nuit_du_12
+Client_00848 	9	Film_00061	Decision_to_Leave	As_Bestas	Anotomie_d_une_chute	Film_00051	Film_00066	Avatar_La_Voie_de_l_eau	Film_00054	Film_00082
+Client_00849 	10	L_Amour_et_les_forets	Film_00100	Sans_filtre	Film_00083	Nightmare_Alley	Film_00084	Vampire_humaniste_chercher_suicidaire_consentant	Ma_cite_evincee	Film_00086	Film_00060
+Client_00850 	1	Trois_mille_ans_a_t_attendre
+Client_00851 	4	Film_00051	Film_00087	Sans_filtre	Film_00064
+Client_00852 	3	Le_proces_Goldman	Les_Rayons_gamma	Film_00099
+Client_00853 	8	Film_00061	Ma_cite_evincee	Killers_of_the_Flower_Moon	Everything_Everywhere_All_at_Once	Film_00075	Nightmare_Alley	The_Exorcist_Believer	Film_00057
+Client_00854 	5	Decision_to_Leave	Film_00094	Top_Gun_Maverick	Film_00083	Elvis
+Client_00855 	6	Film_00075	Film_00056	La_Legende_Papillon	Film_00082	Coupez	The_Batman
+Client_00856 	1	L_Amour_et_les_forets
+Client_00857 	4	Sur_L_Admant	Film_00078	Film_00089	La_PatPatrouille
+Client_00858 	8	Doctor_Strange_in_the_Multiverse_of_Madness	Sans_filtre	Elvis	Film_00075	Film_00065	The_Exorcist_Believer	Film_00069	Je_verrai_toujours_vos_visages
+Client_00859 	1	Film_00059
+Client_00860 	9	Pinocchio	Avatar_La_Voie_de_l_eau	Film_00052	Solo	Film_00090	La_Legende_Papillon	Les_Banshees_d_Inisherin	Killers_of_the_Flower_Moon	Film_00059
+Client_00861 	9	Avatar_La_Voie_de_l_eau	Film_00089	Le_proces_Goldman	Film_00064	Pinocchio	Film_00079	Film_00087	Armageddon_Time	Film_00081
+Client_00862 	9	Ma_cite_evincee	Film_00084	Film_00053	The_Northman	Doctor_Strange_in_the_Multiverse_of_Madness	Les_Banshees_d_Inisherin	Cinq_Nuits_Chez_Freddy	As_Bestas	Film_00080
+Client_00863 	8	The_Green_Knight	Film_00070	Film_00069	Solo	Film_00078	Coupez	The_Batman	Everything_Everywhere_All_at_Once
+Client_00864 	2	Film_00094	Film_00100
+Client_00865 	10	La_passion_Dodin_Bouffant	Tyalor_Swift_Eras_tour	Film_00066	Film_00064	Le_proces_Goldman	The_Exorcist_Believer	Ma_cite_evincee	Vampire_humaniste_chercher_suicidaire_consentant	Film_00080	Ru
+Client_00866 	8	Nightmare_Alley	Film_00097	The_Batman	Nope	Film_00059	Film_00099	Film_00084	The_Exorcist_Believer
+Client_00867 	10	Film_00063	L_Ocean_vu_du_coeur	As_Bestas	Tyalor_Swift_Eras_tour	Film_00079	The_Batman	Film_00100	Sur_L_Admant	Film_00095	Armageddon_Time
+Client_00868 	9	Film_00066	Film_00064	Film_00091	Anotomie_d_une_chute	Film_00096	Film_00068	Vortex	Avatar_La_Voie_de_l_eau	Film_00080
+Client_00869 	10	Licorice_Pizza	Vortex	Decision_to_Leave	Film_00087	Film_00055	Film_00100	La_PatPatrouille	Film_00058	EO	Film_00053
+Client_00870 	6	Film_00098	Licorice_Pizza	Avatar_La_Voie_de_l_eau	Les_Rayons_gamma	Film_00077	Film_00066
+Client_00871 	6	Film_00075	Film_00080	Ru	Solo	Film_00061	Film_00093
+Client_00872 	10	Film_00076	Film_00088	The_Green_Knight	Film_00073	Film_00100	Film_00055	Film_00057	Film_00052	Je_verrai_toujours_vos_visages	Film_00096
+Client_00873 	9	Film_00078	Ma_cite_evincee	Solo	Film_00082	Je_verrai_toujours_vos_visages	Visions	Film_00092	Bullet_Train	Film_00065
+Client_00874 	1	Film_00077
+Client_00875 	4	Coupez	Killers_of_the_Flower_Moon	Le_proces_Goldman	Film_00094
+Client_00876 	6	The_Batman	Sur_L_Admant	Bullet_Train	The_Exorcist_Believer	Film_00082	Film_00051
+Client_00877 	3	Film_00093	Licorice_Pizza	Pacifiction_Tourment_sur_les_iles
+Client_00878 	2	Film_00057	Film_00063
+Client_00879 	3	L_Ocean_vu_du_coeur	Film_00067	Elvis
+Client_00880 	3	Leila_et_ses_freres	Top_Gun_Maverick	Film_00073
+Client_00881 	2	Film_00068	Film_00060
+Client_00882 	8	Avatar_La_Voie_de_l_eau	The_Marvels	Film_00057	Film_00096	Film_00058	Film_00085	Film_00056	Anotomie_d_une_chute
+Client_00883 	1	Top_Gun_Maverick
+Client_00884 	5	Sans_filtre	Film_00082	Film_00087	Leila_et_ses_freres	Film_00098
+Client_00885 	1	Film_00090
+Client_00886 	9	Top_Gun_Maverick	Licorice_Pizza	Caravage	Film_00081	Film_00052	Les_Banshees_d_Inisherin	Armageddon_Time	Sur_L_Admant	Film_00068
+Client_00887 	9	Film_00086	Nightmare_Alley	La_Nuit_du_12	Film_00096	Elvis	Film_00071	Film_00072	Top_Gun_Maverick	Caravage
+Client_00888 	5	Film_00077	Vortex	Film_00093	Film_00080	Film_00070
+Client_00889 	5	Film_00057	Ma_cite_evincee	Film_00059	Decision_to_Leave	Film_00064
+Client_00890 	1	Film_00055
+Client_00891 	6	The_Marvels	The_Exorcist_Believer	Film_00087	Film_00089	Film_00090	Elvis
+Client_00892 	4	The_Green_Knight	Imitation_Game	Film_00057	Film_00054
+Client_00893 	2	Film_00095	Everything_Everywhere_All_at_Once
+Client_00894 	2	Leila_et_ses_freres	The_Exorcist_Believer
+Client_00895 	8	Film_00083	Tyalor_Swift_Eras_tour	Film_00080	Coupez	Film_00058	The_Northman	The_Exorcist_Believer	Film_00081
+Client_00896 	6	Film_00082	Caravage	Leila_et_ses_freres	La_PatPatrouille	Trois_mille_ans_a_t_attendre	Sans_filtre
+Client_00897 	6	Licorice_Pizza	Film_00080	Decision_to_Leave	Film_00066	Avatar_La_Voie_de_l_eau	The_Batman
+Client_00898 	10	La_PatPatrouille	Pinocchio	Film_00060	Film_00082	Film_00096	Elvis	Film_00100	Film_00072	Film_00093	Film_00054
+Client_00899 	10	Film_00083	Film_00062	Nightmare_Alley	Film_00081	La_Legende_Papillon	Vampire_humaniste_chercher_suicidaire_consentant	Film_00051	The_Batman	Armageddon_Time	Sans_filtre
+Client_00900 	8	Les_Banshees_d_Inisherin	Film_00094	Film_00067	Decision_to_Leave	Film_00051	Film_00095	Le_proces_Goldman	Film_00069
+Client_00901 	8	Film_00070	Film_00097	Film_00088	The_Exorcist_Believer	Je_verrai_toujours_vos_visages	Film_00100	The_Green_Knight	Film_00093
+Client_00902 	2	Film_00065	Bullet_Train
+Client_00903 	7	Leila_et_ses_freres	Film_00087	Film_00084	Tyalor_Swift_Eras_tour	The_Green_Knight	Decision_to_Leave	Film_00076
+Client_00904 	7	Les_Trolls_3	Film_00083	Film_00077	Pinocchio	As_Bestas	Film_00059	Film_00057
+Client_00905 	10	The_Marvels	Les_Rayons_gamma	Film_00098	L_Ocean_vu_du_coeur	Film_00085	Pinocchio	Film_00073	Film_00078	Elvis	Film_00064
+Client_00906 	9	Film_00091	Film_00083	Film_00076	L_Amour_et_les_forets	Film_00078	Film_00082	Imitation_Game	The_Northman	Leila_et_ses_freres
+Client_00907 	7	Film_00062	Film_00070	Everything_Everywhere_All_at_Once	Film_00072	Solo	Film_00081	Ma_cite_evincee
+Client_00908 	3	The_Green_Knight	Film_00084	Coupez
+Client_00909 	1	Tyalor_Swift_Eras_tour
+Client_00910 	7	Film_00081	The_Green_Knight	Les_Jours_Heureux	Film_00055	Film_00099	Film_00084	Cinq_Nuits_Chez_Freddy
+Client_00911 	10	Film_00087	Film_00057	Armageddon_Time	Sans_filtre	Solo	Film_00089	Nightmare_Alley	Film_00082	Film_00072	Caravage
+Client_00912 	4	Film_00099	The_Northman	Film_00074	Film_00076
+Client_00913 	6	Film_00075	La_Legende_Papillon	Elvis	Everything_Everywhere_All_at_Once	Bullet_Train	Film_00092
+Client_00914 	10	Les_Trolls_3	Film_00057	Film_00081	Le_proces_Goldman	Bullet_Train	Film_00100	Film_00054	Film_00098	Je_verrai_toujours_vos_visages	Nope
+Client_00915 	1	Film_00090
+Client_00916 	5	Sur_L_Admant	The_Green_Knight	Film_00095	Coupez	Imitation_Game
+Client_00917 	8	Les_Jours_Heureux	L_Ocean_vu_du_coeur	Caravage	Film_00095	Vampire_humaniste_chercher_suicidaire_consentant	Film_00069	As_Bestas	Les_Trolls_3
+Client_00918 	2	Film_00098	Film_00077
+Client_00919 	3	Top_Gun_Maverick	Film_00054	Trois_mille_ans_a_t_attendre
+Client_00920 	6	Film_00098	La_Legende_Papillon	Film_00071	Film_00090	Licorice_Pizza	Film_00087
+Client_00921 	8	L_Amour_et_les_forets	Sur_L_Admant	The_Exorcist_Believer	Armageddon_Time	Sans_filtre	Film_00095	Film_00065	Film_00066
+Client_00922 	5	Film_00060	Armageddon_Time	Film_00051	Ma_cite_evincee	Visions
+Client_00923 	10	La_passion_Dodin_Bouffant	Film_00059	Film_00095	Caravage	Film_00089	Tyalor_Swift_Eras_tour	Trois_mille_ans_a_t_attendre	Film_00061	Film_00091	Film_00087
+Client_00924 	2	Vampire_humaniste_chercher_suicidaire_consentant	Film_00093
+Client_00925 	6	Film_00051	Film_00056	The_Batman	Nope	Film_00057	Film_00082
+Client_00926 	3	Cinq_Nuits_Chez_Freddy	Everything_Everywhere_All_at_Once	Sans_filtre
+Client_00927 	1	Film_00080
+Client_00928 	6	Agent_libre	Film_00097	Les_Trolls_3	Film_00057	La_passion_Dodin_Bouffant	Film_00082
+Client_00929 	9	Film_00088	Film_00090	Killers_of_the_Flower_Moon	As_Bestas	La_PatPatrouille	Film_00058	Film_00060	Cinq_Nuits_Chez_Freddy	Agent_libre
+Client_00930 	6	Film_00053	Licorice_Pizza	Nope	Film_00068	Film_00082	Elvis
+Client_00931 	2	Everything_Everywhere_All_at_Once	Ru
+Client_00932 	8	Film_00055	Film_00083	Sur_L_Admant	Film_00052	Leila_et_ses_freres	Sans_filtre	Film_00082	Film_00059
+Client_00933 	2	Killers_of_the_Flower_Moon	Visions
+Client_00934 	9	Film_00078	Film_00094	Film_00061	Everything_Everywhere_All_at_Once	Tyalor_Swift_Eras_tour	Film_00074	Film_00069	As_Bestas	Les_Jours_Heureux
+Client_00935 	3	Anotomie_d_une_chute	L_Amour_et_les_forets	Film_00095
+Client_00936 	10	The_Batman	Film_00060	Film_00063	Leila_et_ses_freres	Armageddon_Time	Je_verrai_toujours_vos_visages	Nightmare_Alley	Film_00080	Licorice_Pizza	The_Green_Knight
+Client_00937 	3	Agent_libre	Film_00097	Decision_to_Leave
+Client_00938 	8	Agent_libre	Film_00089	Film_00091	Film_00068	Je_verrai_toujours_vos_visages	Film_00064	Vortex	Film_00098
+Client_00939 	2	Film_00058	Sans_filtre
+Client_00940 	3	Film_00083	Ma_cite_evincee	Film_00098
+Client_00941 	10	Film_00076	Film_00077	As_Bestas	Film_00051	Film_00061	Film_00083	Pacifiction_Tourment_sur_les_iles	Leila_et_ses_freres	La_PatPatrouille	Sur_L_Admant
+Client_00942 	3	Top_Gun_Maverick	Film_00065	Coupez
+Client_00943 	1	Film_00084
+Client_00944 	10	Les_Rayons_gamma	Film_00058	Film_00076	Les_Jours_Heureux	Film_00066	Top_Gun_Maverick	Film_00069	Film_00099	La_Legende_Papillon	L_Amour_et_les_forets
+Client_00945 	1	Film_00057
+Client_00946 	2	Film_00088	The_Batman
+Client_00947 	8	Film_00055	Je_verrai_toujours_vos_visages	Les_Banshees_d_Inisherin	Vampire_humaniste_chercher_suicidaire_consentant	Film_00071	Film_00070	Pinocchio	Film_00069
+Client_00948 	2	Imitation_Game	Caravage
+Client_00949 	6	Film_00086	Agent_libre	Decision_to_Leave	Film_00055	Visions	Film_00072
+Client_00950 	6	La_Legende_Papillon	Armageddon_Time	Caravage	Film_00096	La_passion_Dodin_Bouffant	Cinq_Nuits_Chez_Freddy
+Client_00951 	5	Licorice_Pizza	Film_00068	The_Batman	Film_00089	Les_Banshees_d_Inisherin
+Client_00952 	8	Agent_libre	Coupez	Doctor_Strange_in_the_Multiverse_of_Madness	Film_00053	Les_Trolls_3	The_Exorcist_Believer	Killers_of_the_Flower_Moon	Film_00078
+Client_00953 	7	Film_00076	Decision_to_Leave	Film_00093	Film_00100	Film_00054	Film_00077	La_PatPatrouille
+Client_00954 	3	Film_00073	Les_Jours_Heureux	Film_00071
+Client_00955 	9	Les_Jours_Heureux	EO	La_Legende_Papillon	Trois_mille_ans_a_t_attendre	La_Nuit_du_12	Film_00078	Film_00059	Film_00077	Nightmare_Alley
+Client_00956 	7	Film_00088	Film_00056	Sur_L_Admant	Film_00067	Solo	Everything_Everywhere_All_at_Once	Vampire_humaniste_chercher_suicidaire_consentant
+Client_00957 	1	Film_00082
+Client_00958 	5	Film_00071	Everything_Everywhere_All_at_Once	Armageddon_Time	Film_00093	La_PatPatrouille
+Client_00959 	9	Film_00078	Film_00097	Agent_libre	Film_00079	Decision_to_Leave	Film_00073	Film_00080	Film_00067	Film_00084
+Client_00960 	3	Trois_mille_ans_a_t_attendre	Vampire_humaniste_chercher_suicidaire_consentant	Vortex
+Client_00961 	10	Film_00095	Film_00090	Licorice_Pizza	Film_00067	Film_00071	Film_00069	Film_00056	Film_00068	Decision_to_Leave	Elvis
+Client_00962 	9	Trois_mille_ans_a_t_attendre	Film_00063	Film_00079	Les_Trolls_3	Film_00070	Sans_filtre	Killers_of_the_Flower_Moon	Film_00053	Film_00062
+Client_00963 	8	Film_00084	Ma_cite_evincee	The_Exorcist_Believer	Film_00088	Film_00091	Vampire_humaniste_chercher_suicidaire_consentant	Film_00062	Sans_filtre
+Client_00964 	6	Film_00094	The_Exorcist_Believer	Film_00077	Ru	Film_00055	La_PatPatrouille
+Client_00965 	9	Film_00057	Armageddon_Time	Film_00076	Caravage	Coupez	Ma_cite_evincee	Film_00096	La_PatPatrouille	Film_00085
+Client_00966 	10	Film_00081	Film_00052	Les_Rayons_gamma	Vampire_humaniste_chercher_suicidaire_consentant	Film_00051	Film_00055	The_Marvels	Film_00098	Film_00076	Cinq_Nuits_Chez_Freddy
+Client_00967 	3	Film_00080	Film_00098	The_Marvels
+Client_00968 	7	Le_proces_Goldman	Film_00088	Film_00073	Visions	Nightmare_Alley	Vortex	Sans_filtre
+Client_00969 	1	Film_00055
+Client_00970 	5	EO	Film_00056	Film_00082	Film_00061	Armageddon_Time
+Client_00971 	9	Vortex	Film_00061	The_Exorcist_Believer	Sur_L_Admant	Pacifiction_Tourment_sur_les_iles	La_Nuit_du_12	Film_00095	Film_00089	Film_00079
+Client_00972 	4	Film_00053	Killers_of_the_Flower_Moon	Trois_mille_ans_a_t_attendre	Film_00057
+Client_00973 	10	Film_00093	Film_00095	Le_proces_Goldman	Elvis	Les_Rayons_gamma	Film_00086	Film_00073	Film_00098	Visions	Les_Banshees_d_Inisherin
+Client_00974 	5	Film_00086	Film_00095	Caravage	Film_00071	Licorice_Pizza
+Client_00975 	5	La_PatPatrouille	Armageddon_Time	Avatar_La_Voie_de_l_eau	Film_00095	Film_00063
+Client_00976 	3	Film_00080	Top_Gun_Maverick	Film_00076
+Client_00977 	9	Je_verrai_toujours_vos_visages	Film_00096	Film_00066	Film_00093	EO	Ma_cite_evincee	Film_00087	Sans_filtre	Film_00071
+Client_00978 	6	Film_00070	Anotomie_d_une_chute	Film_00072	Bullet_Train	Film_00068	Film_00053
+Client_00979 	6	The_Green_Knight	Film_00089	Caravage	Les_Rayons_gamma	Film_00088	Solo
+Client_00980 	8	Tyalor_Swift_Eras_tour	Les_Jours_Heureux	EO	Agent_libre	Film_00099	Coupez	Film_00070	Film_00052
+Client_00981 	4	La_Legende_Papillon	Avatar_La_Voie_de_l_eau	Film_00072	Film_00079
+Client_00982 	3	Doctor_Strange_in_the_Multiverse_of_Madness	The_Green_Knight	Pacifiction_Tourment_sur_les_iles
+Client_00983 	6	Ru	Film_00057	Sur_L_Admant	La_passion_Dodin_Bouffant	Trois_mille_ans_a_t_attendre	Film_00055
+Client_00984 	9	Film_00057	Film_00098	Film_00072	La_Legende_Papillon	The_Batman	Film_00086	Killers_of_the_Flower_Moon	La_Nuit_du_12	The_Exorcist_Believer
+Client_00985 	7	La_Legende_Papillon	Film_00096	Decision_to_Leave	Le_proces_Goldman	La_Nuit_du_12	Nope	Film_00082
+Client_00986 	6	Film_00077	Imitation_Game	Film_00068	Film_00076	Anotomie_d_une_chute	Caravage
+Client_00987 	10	Sur_L_Admant	Film_00070	Ru	Film_00082	Film_00089	Film_00094	Film_00055	Les_Rayons_gamma	Film_00071	Film_00066
+Client_00988 	1	Film_00090
+Client_00989 	8	Film_00078	Licorice_Pizza	Nightmare_Alley	Film_00100	L_Ocean_vu_du_coeur	Film_00073	Agent_libre	Film_00053
+Client_00990 	6	Film_00056	The_Green_Knight	Elvis	EO	Film_00075	Le_proces_Goldman
+Client_00991 	3	Ru	Film_00067	Film_00076
+Client_00992 	9	Film_00085	La_Legende_Papillon	The_Northman	Film_00058	Tyalor_Swift_Eras_tour	Film_00068	Film_00094	Film_00052	Sans_filtre
+Client_00993 	1	Agent_libre
+Client_00994 	1	Film_00063
+Client_00995 	8	The_Marvels	Film_00060	Film_00071	La_passion_Dodin_Bouffant	Sur_L_Admant	Film_00077	Film_00085	Film_00095
+Client_00996 	9	Film_00093	Les_Rayons_gamma	Film_00069	Film_00058	Film_00061	Film_00086	Film_00083	Film_00076	Film_00055
+Client_00997 	4	Visions	Film_00094	Film_00052	Film_00080
+Client_00998 	3	Film_00064	Les_Banshees_d_Inisherin	Visions
+Client_00999 	5	Film_00080	Avatar_La_Voie_de_l_eau	Film_00056	Ru	L_Amour_et_les_forets
+Client_01000 	9	Film_00098	Film_00084	Trois_mille_ans_a_t_attendre	Licorice_Pizza	Film_00088	Film_00081	Film_00077	Film_00079	La_Legende_Papillon
