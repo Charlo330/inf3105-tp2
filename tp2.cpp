@@ -8,12 +8,14 @@
 using namespace std;
 
 void lire(std::istream &entree, Tableau<std::string> &films,
-          Tableau<Client> &clients) {
+          Tableau<Client> &clients)
+{
   // Lecture. Les opérateurs >> pour Clients est à compléter.
   int nbDeFilms = 0;
   entree >> nbDeFilms; // m
 
-  for (int i = 0; i < nbDeFilms; i++) {
+  for (int i = 0; i < nbDeFilms; i++)
+  {
     std::string film;
     entree >> film;
     films.ajouter(film);
@@ -22,7 +24,8 @@ void lire(std::istream &entree, Tableau<std::string> &films,
   int nbDeClients = 0;
   entree >> nbDeClients; // p
 
-  for (int i = 0; i < nbDeClients; i++) {
+  for (int i = 0; i < nbDeClients; i++)
+  {
     Client c;
     entree >> c;
     clients.ajouter(c);
@@ -37,19 +40,24 @@ void lire(std::istream &entree, Tableau<std::string> &films,
  * @return Le film qui maximise le nombre de clients satisfaits.
  */
 std::string uneSalleCinema(const Tableau<std::string> &films,
-                           const Tableau<Client> &clients) {
+                           const Tableau<Client> &clients)
+{
 
   int nbClients;
   int nbClientsMax = -1;
   std::string choixFilm;
-  for (int i = 0; i < films.taille(); i++) {
+  for (int i = 0; i < films.taille(); i++)
+  {
     nbClients = 0;
-    for (int j = 0; j < clients.taille(); j++) {
-      if (clients[j].veutEcouterFilm(films[i])) {
+    for (int j = 0; j < clients.taille(); j++)
+    {
+      if (clients[j].veutEcouterFilm(films[i]))
+      {
         ++nbClients;
       }
     }
-    if (nbClients > nbClientsMax) {
+    if (nbClients > nbClientsMax)
+    {
       nbClientsMax = nbClients;
       choixFilm = films[i];
     }
@@ -66,8 +74,9 @@ std::string uneSalleCinema(const Tableau<std::string> &films,
  * @return La combinaison de films qui maximise le nombre de clients satisfaits ainsi que le nombre de clients satisfaits.
  */
 Tuple<std::string, int>
-plusieursSallesCinema(Tableau<Client> &clients,
-                      Tableau<std::string> &combinaisonFilms) {
+plusieursSallesCinema(Tableau<Client> &clients, const Tableau<std::string> &films,
+                      Tableau<std::string> &combinaisonFilms, Tableau<Tableau<bool>> &appreciation)
+{
   std::string film;
 
   int nombreCombinaisons = combinaisonFilms.taille();
@@ -75,20 +84,30 @@ plusieursSallesCinema(Tableau<Client> &clients,
   int nbSatisfait = 0;
 
   // Reset all clients' satisfaction status once
-  for (int j = 0; j < clients.taille(); j++) {
+  for (int j = 0; j < clients.taille(); j++)
+  {
     clients[j].estSatisfait = false;
   }
 
-  // Process each film in the combination once
-  for (int k = 0; k < nombreCombinaisons; k++) {
+  int filmId;
+  for (int k = 0; k < nombreCombinaisons; k++)
+  {
     film = combinaisonFilms[k];
     stringCombinaisonFilm += film + "\n";
-    for (int j = 0; j < clients.taille(); j++) {
-      if (!clients[j].estSatisfait && clients[j].veutEcouterFilm(film)) {
-        nbSatisfait++;
-        clients[j].estSatisfait = true;
+    filmId = -1;
+
+    for (int i = 0; i < films.taille(); i++)
+      if (films[i] == combinaisonFilms[k])
+      {
+        filmId = i;
+        break;
       }
-    }
+  }
+
+  for (int j = 0; j < clients.taille(); j++)
+  {
+    if (!clients[j].estSatisfait && appreciation[filmId][j])
+      nbSatisfait++;
   }
   return Tuple<std::string, int>(stringCombinaisonFilm, nbSatisfait);
 }
@@ -103,51 +122,85 @@ plusieursSallesCinema(Tableau<Client> &clients,
  * @param pos L'indice à partir duquel les prochains éléments peuvent être sélectionnés.
  */
 void combinaison(const Tableau<std::string> &tableau, unsigned int k,
-                 Tableau<std::string> &current, Tableau<Client> &clients,
-                Tuple<std::string, int> &combinaisonMax, unsigned int pos = 0) {
-  
+                 Tableau<std::string> &current, Tableau<Client> &clients, const Tableau<string> &films,
+                 Tuple<std::string, int> &combinaisonMax, Tableau<Tableau<bool>> appreciation, unsigned int pos = 0)
+{
+
   Tuple<std::string, int> tuple;
-  if (k == 0) {
-    tuple = plusieursSallesCinema(clients, current);
-    if (tuple.getJ() > combinaisonMax.getJ()) {
+  if (k == 0)
+  {
+    tuple = plusieursSallesCinema(clients, films, current, appreciation);
+    if (tuple.getJ() > combinaisonMax.getJ())
+    {
       combinaisonMax = tuple;
     }
     return;
   }
-  for (int i = pos; i < tableau.taille(); i++) {
+  for (int i = pos; i < tableau.taille(); i++)
+  {
     current.ajouter(tableau[i]);
-    combinaison(tableau, k - 1, current, clients, combinaisonMax, i + 1);
+    combinaison(tableau, k - 1, current, clients, films, combinaisonMax, i + 1);
     if (tuple.getJ() > combinaisonMax.getJ())
       combinaisonMax = tuple;
     current.enlever(current.taille() - 1);
   }
 }
 
-void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
-         int nbsalles = 2) {
+Tableau<Tableau<bool>> construction_tableau_client_film(const Tableau<std::string> &films, Tableau<Client> &clients)
+{
+  int taille_film = films.taille();
+  int taille_clients = clients.taille();
 
-  if (nbsalles == 1) {
+  Tableau<Tableau<bool>> client_film;
+  for (int i = 0; i < taille_film; i++)
+  {
+    Tableau<bool> tableau_clients;
+    for (int j = 0; j < taille_clients; j++)
+    {
+      tableau_clients[j] = clients[j].veutEcouterFilm(films[i]);
+    }
+    client_film[i] = tableau_clients;
+  }
+  return client_film;
+}
+
+void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
+         int nbsalles = 2)
+{
+
+  if (nbsalles == 1)
+  {
     std::cout << uneSalleCinema(films, clients);
-  } else {
+  }
+  else
+  {
     Tableau<std::string> current;
     Tuple<std::string, int> tuple("", -1);
-    combinaison(films, nbsalles, current, clients, tuple);
+    Tableau<Tableau<bool>> appreciation = construction_tableau_client_film(films, clients);
+    combinaison(films, nbsalles, current, clients, films, tuple, appreciation);
     cout << tuple.getI();
   }
 }
 
-int main(int argc, const char **argv) {
+int main(int argc, const char **argv)
+{
   // Entrée:
   int nbsalles = 1;
   const char *nom_fichier = nullptr;
 
   // Traitement des arguments reçus en ligne de commande
-  for (int i = 1; i < argc; i++) {
-    if (argv[i][0] == '-') {
+  for (int i = 1; i < argc; i++)
+  {
+    if (argv[i][0] == '-')
+    {
       nbsalles = atoi(argv[i] + 1);
-    } else if (nom_fichier == nullptr) {
+    }
+    else if (nom_fichier == nullptr)
+    {
       nom_fichier = argv[i];
-    } else {
+    }
+    else
+    {
       std::cout << "Erreur de syntaxe d'appel au programme!" << std::endl;
       return 1;
     }
@@ -157,15 +210,19 @@ int main(int argc, const char **argv) {
   Tableau<Client> clients;
 
   // Appel à la fonction tp2
-  if (nom_fichier != nullptr) {
+  if (nom_fichier != nullptr)
+  {
     std::ifstream lecteurfichier(nom_fichier);
-    if (lecteurfichier.fail()) {
+    if (lecteurfichier.fail())
+    {
       std::cout << "Erreur d'ouverture du fichier '" << nom_fichier << "'"
                 << std::endl;
       return 2;
     }
     lire(lecteurfichier, films, clients);
-  } else {
+  }
+  else
+  {
     lire(std::cin, films, clients);
   }
 
