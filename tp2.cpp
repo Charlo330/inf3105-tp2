@@ -32,8 +32,8 @@ void lire(std::istream &entree, Tableau<std::string> &films,
   }
 }
 
-void trierFilmsParPopularite(Tableau<int> &ordreFilms,
-                             Tableau<int> &populariteFilms)
+void trieFilmsPopularite(Tableau<int> &ordreFilms,
+                         Tableau<int> &populariteFilms)
 {
   for (int i = 0; i < ordreFilms.taille() - 1; ++i)
   {
@@ -48,9 +48,9 @@ void trierFilmsParPopularite(Tableau<int> &ordreFilms,
 
     if (indiceMax != i)
     {
-      int filmTmp = ordreFilms[i];
+      int film = ordreFilms[i];
       ordreFilms[i] = ordreFilms[indiceMax];
-      ordreFilms[indiceMax] = filmTmp;
+      ordreFilms[indiceMax] = film;
 
       int populariteTmp = populariteFilms[i];
       populariteFilms[i] = populariteFilms[indiceMax];
@@ -113,11 +113,6 @@ void combinaison(const Tableau<std::string> &films,
     return;
   }
 
-  if (pos + k > ordreFilms.taille())
-  {
-    return;
-  }
-
   if (nbSatisfait + meilleurScorePossible[pos + k] - meilleurScorePossible[pos] <= combinaisonMax.getJ())
   {
     return;
@@ -162,25 +157,25 @@ void combinaison(const Tableau<std::string> &films,
   }
 }
 
-Tableau<Tableau<int>> construction_clients_par_film(const Tableau<std::string> &films, const Tableau<Client> &clients)
+Tableau<Tableau<int>> constructionClientsFilm(const Tableau<std::string> &films, const Tableau<Client> &clients)
 {
-  int taille_film = films.taille();
-  int taille_clients = clients.taille();
+  int tailleFilm = films.taille();
+  int tailleClients = clients.taille();
 
-  Tableau<Tableau<int>> clients_par_film;
-  for (int i = 0; i < taille_film; i++)
+  Tableau<Tableau<int>> clientsFilm;
+  for (int i = 0; i < tailleFilm; i++)
   {
-    Tableau<int> clients_du_film;
-    for (int j = 0; j < taille_clients; j++)
+    Tableau<int> clientsRegardantFilm;
+    for (int j = 0; j < tailleClients; j++)
     {
       if (clients[j].veutEcouterFilm(films[i]))
       {
-        clients_du_film.ajouter(j);
+        clientsRegardantFilm.ajouter(j);
       }
     }
-    clients_par_film.ajouter(clients_du_film);
+    clientsFilm.ajouter(clientsRegardantFilm);
   }
-  return clients_par_film;
+  return clientsFilm;
 }
 
 void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
@@ -195,7 +190,7 @@ void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
   {
     Tableau<int> current;
     Tuple<std::string, int> tuple("", -1);
-    Tableau<Tableau<int>> clientsParFilm = construction_clients_par_film(films, clients);
+    Tableau<Tableau<int>> clientsParFilm = constructionClientsFilm(films, clients);
     Tableau<int> ordreFilms;
     Tableau<int> populariteFilms;
     Tableau<int> meilleurScorePossible;
@@ -203,20 +198,13 @@ void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
 
     for (int i = 0; i < films.taille(); i++)
     {
-      int popularite = 0;
-      for (int j = 0; j < clients.taille(); j++)
-      {
-        if (clientsParFilm[i].chercher(j) != -1)
-        {
-          popularite++;
-        }
-      }
+      int popularite = clientsParFilm[i].taille();
 
       ordreFilms.ajouter(i);
       populariteFilms.ajouter(popularite);
     }
 
-    trierFilmsParPopularite(ordreFilms, populariteFilms);
+    trieFilmsPopularite(ordreFilms, populariteFilms);
 
     meilleurScorePossible.ajouter(0);
     for (int i = 0; i < populariteFilms.taille(); i++)
