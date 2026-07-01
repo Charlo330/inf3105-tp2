@@ -7,6 +7,31 @@
 
 using namespace std;
 
+void lire(std::istream &entree, Tableau<std::string> &films,
+          Tableau<Client> &clients)
+{
+  // Lecture. Les opérateurs >> pour Clients est à compléter.
+  int nbDeFilms = 0;
+  entree >> nbDeFilms; // m
+
+  for (int i = 0; i < nbDeFilms; i++)
+  {
+    std::string film;
+    entree >> film;
+    films.ajouter(film);
+  }
+
+  int nbDeClients = 0;
+  entree >> nbDeClients; // p
+
+  for (int i = 0; i < nbDeClients; i++)
+  {
+    Client c;
+    entree >> c;
+    clients.ajouter(c);
+  }
+}
+
 void trierFilmsParPopularite(Tableau<int> &ordreFilms,
                              Tableau<int> &populariteFilms)
 {
@@ -31,31 +56,6 @@ void trierFilmsParPopularite(Tableau<int> &ordreFilms,
       populariteFilms[i] = populariteFilms[indiceMax];
       populariteFilms[indiceMax] = populariteTmp;
     }
-  }
-}
-
-void lire(std::istream &entree, Tableau<std::string> &films,
-          Tableau<Client> &clients)
-{
-  // Lecture. Les opérateurs >> pour Clients est à compléter.
-  int nbDeFilms = 0;
-  entree >> nbDeFilms; // m
-
-  for (int i = 0; i < nbDeFilms; i++)
-  {
-    std::string film;
-    entree >> film;
-    films.ajouter(film);
-  }
-
-  int nbDeClients = 0;
-  entree >> nbDeClients; // p
-
-  for (int i = 0; i < nbDeClients; i++)
-  {
-    Client c;
-    entree >> c;
-    clients.ajouter(c);
   }
 }
 
@@ -87,7 +87,6 @@ std::string uneSalleCinema(const Tableau<std::string> &films,
 
 void combinaison(const Tableau<std::string> &films,
                  const Tableau<int> &ordreFilms,
-                 const Tableau<int> &populariteFilms,
                  const Tableau<int> &meilleurScorePossible,
                  const Tableau<Tableau<int>> &clientsParFilm,
                  int k,
@@ -144,7 +143,6 @@ void combinaison(const Tableau<std::string> &films,
 
     combinaison(films,
                 ordreFilms,
-                populariteFilms,
                 meilleurScorePossible,
                 clientsParFilm,
                 k - 1,
@@ -233,7 +231,6 @@ void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
 
     combinaison(films,
                 ordreFilms,
-                populariteFilms,
                 meilleurScorePossible,
                 clientsParFilm,
                 nbsalles,
