@@ -7,6 +7,33 @@
 
 using namespace std;
 
+void trierFilmsParPopularite(Tableau<int> &ordreFilms,
+                             Tableau<int> &populariteFilms)
+{
+  for (int i = 0; i < ordreFilms.taille() - 1; ++i)
+  {
+    int indiceMax = i;
+    for (int j = i + 1; j < ordreFilms.taille(); ++j)
+    {
+      if (populariteFilms[j] > populariteFilms[indiceMax])
+      {
+        indiceMax = j;
+      }
+    }
+
+    if (indiceMax != i)
+    {
+      int filmTmp = ordreFilms[i];
+      ordreFilms[i] = ordreFilms[indiceMax];
+      ordreFilms[indiceMax] = filmTmp;
+
+      int populariteTmp = populariteFilms[i];
+      populariteFilms[i] = populariteFilms[indiceMax];
+      populariteFilms[indiceMax] = populariteTmp;
+    }
+  }
+}
+
 void lire(std::istream &entree, Tableau<std::string> &films,
           Tableau<Client> &clients)
 {
@@ -107,24 +134,17 @@ plusieursSallesCinema(Tableau<Client> &clients, const Tableau<std::string> &film
   return Tuple<std::string, int>(stringCombinaisonFilm, nbSatisfait);
 }
 
-/**
- * Génère récursivement toutes les combinaisons de k éléments du tableau.
- *
- * @param tableau Le tableau contenant les éléments à combiner.
- * @param k Le nombre d'éléments restant à ajouter à la combinaison courante.
- * @param current La combinaison en cours de construction.
- * @param resultats Le tableau dans lequel sont enregistrées les combinaisons générées.
- * @param pos L'indice à partir duquel les prochains éléments peuvent être sélectionnés.
- */
-void combinaison(const Tableau<std::string> &tableau,
-                 unsigned int k,
+void combinaison(const Tableau<std::string> &films,
+                 const Tableau<int> &ordreFilms,
+                 const Tableau<int> &populariteFilms,
+                 const Tableau<int> &meilleurScorePossible,
+                 const Tableau<Tableau<int>> &clientsParFilm,
+                 int k,
+                 int pos,
                  Tableau<int> &current,
-                 const Tableau<string> &films,
                  Tuple<std::string, int> &combinaisonMax,
-                 Tableau<Tableau<bool>> &appreciation,
-                 Tableau<bool> &satisfait,
-                 int nbSatisfait,
-                 unsigned int pos)
+                 Tableau<int> &satisfait,
+                 int nbSatisfait)
 {
   if (k == 0)
   {
@@ -143,58 +163,75 @@ void combinaison(const Tableau<std::string> &tableau,
     return;
   }
 
-  for (unsigned int i = pos; i <= tableau.taille() - k; i++)
+  if (pos + k > ordreFilms.taille())
   {
-    current.ajouter(i);
+    return;
+  }
 
-    Tableau<int> nouveauxClients;
+  if (nbSatisfait + meilleurScorePossible[pos + k] - meilleurScorePossible[pos] <= combinaisonMax.getJ())
+  {
+    return;
+  }
+
+  for (int i = pos; i <= ordreFilms.taille() - k; i++)
+  {
+    int filmId = ordreFilms[i];
+    current.ajouter(filmId);
+
     int nouveauNbSatisfait = nbSatisfait;
+    const Tableau<int> &clientsDuFilm = clientsParFilm[filmId];
 
-    for (int j = 0; j < satisfait.taille(); j++)
+    for (int j = 0; j < clientsDuFilm.taille(); j++)
     {
-      if (!satisfait[j] && appreciation[i][j])
+      int clientId = clientsDuFilm[j];
+      if (satisfait[clientId] == 0)
       {
-        satisfait[j] = true;
-        nouveauxClients.ajouter(j);
         nouveauNbSatisfait++;
       }
+      satisfait[clientId]++;
     }
 
-    combinaison(tableau,
+    combinaison(films,
+                ordreFilms,
+                populariteFilms,
+                meilleurScorePossible,
+                clientsParFilm,
                 k - 1,
+                i + 1,
                 current,
-                films,
                 combinaisonMax,
-                appreciation,
                 satisfait,
-                nouveauNbSatisfait,
-                i + 1);
+                nouveauNbSatisfait);
 
-    for (int j = 0; j < nouveauxClients.taille(); j++)
+    for (int j = 0; j < clientsDuFilm.taille(); j++)
     {
-      satisfait[nouveauxClients[j]] = false;
+      int clientId = clientsDuFilm[j];
+      satisfait[clientId]--;
     }
 
     current.enlever(current.taille() - 1);
   }
 }
 
-Tableau<Tableau<bool>> construction_tableau_client_film(const Tableau<std::string> &films, Tableau<Client> &clients)
+Tableau<Tableau<int>> construction_clients_par_film(const Tableau<std::string> &films, const Tableau<Client> &clients)
 {
   int taille_film = films.taille();
   int taille_clients = clients.taille();
 
-  Tableau<Tableau<bool>> client_film;
+  Tableau<Tableau<int>> clients_par_film;
   for (int i = 0; i < taille_film; i++)
   {
-    Tableau<bool> tableau_clients;
+    Tableau<int> clients_du_film;
     for (int j = 0; j < taille_clients; j++)
     {
-      tableau_clients.ajouter(clients[j].veutEcouterFilm(films[i]));
+      if (clients[j].veutEcouterFilm(films[i]))
+      {
+        clients_du_film.ajouter(j);
+      }
     }
-    client_film.ajouter(tableau_clients);
+    clients_par_film.ajouter(clients_du_film);
   }
-  return client_film;
+  return clients_par_film;
 }
 
 void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
@@ -209,23 +246,53 @@ void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
   {
     Tableau<int> current;
     Tuple<std::string, int> tuple("", -1);
-    Tableau<Tableau<bool>> appreciation = construction_tableau_client_film(films, clients);
-    Tableau<bool> satisfait;
+    Tableau<Tableau<int>> clientsParFilm = construction_clients_par_film(films, clients);
+    Tableau<int> ordreFilms;
+    Tableau<int> populariteFilms;
+    Tableau<int> meilleurScorePossible;
+    Tableau<int> satisfait;
+
+    for (int i = 0; i < films.taille(); i++)
+    {
+      int popularite = 0;
+      for (int j = 0; j < clients.taille(); j++)
+      {
+        if (clientsParFilm[i].chercher(j) != -1)
+        {
+          popularite++;
+        }
+      }
+
+      ordreFilms.ajouter(i);
+      populariteFilms.ajouter(popularite);
+    }
+
+    trierFilmsParPopularite(ordreFilms, populariteFilms);
+
+    meilleurScorePossible.ajouter(0);
+    for (int i = 0; i < populariteFilms.taille(); i++)
+    {
+      meilleurScorePossible.ajouter(meilleurScorePossible[i] + populariteFilms[i]);
+    }
+
     for (int i = 0; i < clients.taille(); i++)
     {
-      satisfait.ajouter(false);
+      satisfait.ajouter(0);
     }
 
     combinaison(films,
+                ordreFilms,
+                populariteFilms,
+                meilleurScorePossible,
+                clientsParFilm,
                 nbsalles,
-                current,
-                films,
-                tuple,
-                appreciation,
-                satisfait,
                 0,
+                current,
+                tuple,
+                satisfait,
                 0);
     std::cout << tuple.getI();
+    std::cout << tuple.getJ() << '\n';
   }
 }
 
