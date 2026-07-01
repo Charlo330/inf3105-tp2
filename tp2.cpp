@@ -59,13 +59,6 @@ void lire(std::istream &entree, Tableau<std::string> &films,
   }
 }
 
-/**
- * Détermine le film qui satisfait le plus grand nombre de clients.
- *
- * @param films Le tableau des films disponibles.
- * @param clients Le tableau des clients et de leurs préférences.
- * @return Le film qui maximise le nombre de clients satisfaits.
- */
 std::string uneSalleCinema(const Tableau<std::string> &films,
                            const Tableau<Client> &clients)
 {
@@ -90,48 +83,6 @@ std::string uneSalleCinema(const Tableau<std::string> &films,
     }
   }
   return choixFilm;
-}
-
-/**
- * Détermine la combinaison de films qui satisfait le plus grand nombre de clients.
- *
- * @param films Le tableau de tous les films disponibles.
- * @param clients Le tableau des clients et de leurs préférences.
- * @param combinaisonsFilms Le tableau contenant les combinaisons de films à évaluer.
- * @return La combinaison de films qui maximise le nombre de clients satisfaits ainsi que le nombre de clients satisfaits.
- */
-Tuple<std::string, int>
-plusieursSallesCinema(Tableau<Client> &clients, const Tableau<std::string> &films,
-                      Tableau<int> &combinaisonFilms, Tableau<Tableau<bool>> &appreciation)
-{
-  int nombreCombinaisons = combinaisonFilms.taille();
-  std::string stringCombinaisonFilm;
-  int nbSatisfait = 0;
-
-  for (int j = 0; j < clients.taille(); j++)
-  {
-    clients[j].estSatisfait = false;
-  }
-
-  for (int k = 0; k < nombreCombinaisons; k++)
-  {
-    int filmId = combinaisonFilms[k];
-
-    stringCombinaisonFilm += films[filmId];
-    stringCombinaisonFilm += '\n';
-
-    for (int j = 0; j < clients.taille(); j++)
-    {
-      if (!clients[j].estSatisfait &&
-          appreciation[filmId][j])
-      {
-        clients[j].estSatisfait = true;
-        nbSatisfait++;
-      }
-    }
-  }
-
-  return Tuple<std::string, int>(stringCombinaisonFilm, nbSatisfait);
 }
 
 void combinaison(const Tableau<std::string> &films,
