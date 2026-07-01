@@ -75,40 +75,35 @@ std::string uneSalleCinema(const Tableau<std::string> &films,
  */
 Tuple<std::string, int>
 plusieursSallesCinema(Tableau<Client> &clients, const Tableau<std::string> &films,
-                      Tableau<std::string> &combinaisonFilms, Tableau<Tableau<bool>> &appreciation)
+                      Tableau<int> &combinaisonFilms, Tableau<Tableau<bool>> &appreciation)
 {
-  std::string film;
-
   int nombreCombinaisons = combinaisonFilms.taille();
   std::string stringCombinaisonFilm;
   int nbSatisfait = 0;
 
-  // Reset all clients' satisfaction status once
   for (int j = 0; j < clients.taille(); j++)
   {
     clients[j].estSatisfait = false;
   }
 
-  int filmId;
   for (int k = 0; k < nombreCombinaisons; k++)
   {
-    film = combinaisonFilms[k];
-    stringCombinaisonFilm += film + "\n";
-    filmId = -1;
+    int filmId = combinaisonFilms[k];
 
-    for (int i = 0; i < films.taille(); i++)
-      if (films[i] == combinaisonFilms[k])
+    stringCombinaisonFilm += films[filmId];
+    stringCombinaisonFilm += '\n';
+
+    for (int j = 0; j < clients.taille(); j++)
+    {
+      if (!clients[j].estSatisfait &&
+          appreciation[filmId][j])
       {
-        filmId = i;
-        break;
+        clients[j].estSatisfait = true;
+        nbSatisfait++;
       }
+    }
   }
 
-  for (int j = 0; j < clients.taille(); j++)
-  {
-    if (!clients[j].estSatisfait && appreciation[filmId][j])
-      nbSatisfait++;
-  }
   return Tuple<std::string, int>(stringCombinaisonFilm, nbSatisfait);
 }
 
@@ -121,27 +116,65 @@ plusieursSallesCinema(Tableau<Client> &clients, const Tableau<std::string> &film
  * @param resultats Le tableau dans lequel sont enregistrées les combinaisons générées.
  * @param pos L'indice à partir duquel les prochains éléments peuvent être sélectionnés.
  */
-void combinaison(const Tableau<std::string> &tableau, unsigned int k,
-                 Tableau<std::string> &current, Tableau<Client> &clients, const Tableau<string> &films,
-                 Tuple<std::string, int> &combinaisonMax, Tableau<Tableau<bool>> appreciation, unsigned int pos = 0)
+void combinaison(const Tableau<std::string> &tableau,
+                 unsigned int k,
+                 Tableau<int> &current,
+                 const Tableau<string> &films,
+                 Tuple<std::string, int> &combinaisonMax,
+                 Tableau<Tableau<bool>> &appreciation,
+                 Tableau<bool> &satisfait,
+                 int nbSatisfait,
+                 unsigned int pos)
 {
-
-  Tuple<std::string, int> tuple;
   if (k == 0)
   {
-    tuple = plusieursSallesCinema(clients, films, current, appreciation);
-    if (tuple.getJ() > combinaisonMax.getJ())
+    if (nbSatisfait > combinaisonMax.getJ())
     {
-      combinaisonMax = tuple;
+      std::string str;
+
+      for (int i = 0; i < current.taille(); i++)
+      {
+        str += films[current[i]];
+        str += '\n';
+      }
+
+      combinaisonMax = Tuple<std::string, int>(str, nbSatisfait);
     }
     return;
   }
-  for (int i = pos; i < tableau.taille(); i++)
+
+  for (unsigned int i = pos; i <= tableau.taille() - k; i++)
   {
-    current.ajouter(tableau[i]);
-    combinaison(tableau, k - 1, current, clients, films, combinaisonMax, i + 1);
-    if (tuple.getJ() > combinaisonMax.getJ())
-      combinaisonMax = tuple;
+    current.ajouter(i);
+
+    Tableau<int> nouveauxClients;
+    int nouveauNbSatisfait = nbSatisfait;
+
+    for (int j = 0; j < satisfait.taille(); j++)
+    {
+      if (!satisfait[j] && appreciation[i][j])
+      {
+        satisfait[j] = true;
+        nouveauxClients.ajouter(j);
+        nouveauNbSatisfait++;
+      }
+    }
+
+    combinaison(tableau,
+                k - 1,
+                current,
+                films,
+                combinaisonMax,
+                appreciation,
+                satisfait,
+                nouveauNbSatisfait,
+                i + 1);
+
+    for (int j = 0; j < nouveauxClients.taille(); j++)
+    {
+      satisfait[nouveauxClients[j]] = false;
+    }
+
     current.enlever(current.taille() - 1);
   }
 }
@@ -157,9 +190,9 @@ Tableau<Tableau<bool>> construction_tableau_client_film(const Tableau<std::strin
     Tableau<bool> tableau_clients;
     for (int j = 0; j < taille_clients; j++)
     {
-      tableau_clients[j] = clients[j].veutEcouterFilm(films[i]);
+      tableau_clients.ajouter(clients[j].veutEcouterFilm(films[i]));
     }
-    client_film[i] = tableau_clients;
+    client_film.ajouter(tableau_clients);
   }
   return client_film;
 }
@@ -174,17 +207,32 @@ void tp2(const Tableau<std::string> &films, Tableau<Client> &clients,
   }
   else
   {
-    Tableau<std::string> current;
+    Tableau<int> current;
     Tuple<std::string, int> tuple("", -1);
     Tableau<Tableau<bool>> appreciation = construction_tableau_client_film(films, clients);
-    combinaison(films, nbsalles, current, clients, films, tuple, appreciation);
-    cout << tuple.getI();
+    Tableau<bool> satisfait;
+    for (int i = 0; i < clients.taille(); i++)
+    {
+      satisfait.ajouter(false);
+    }
+
+    combinaison(films,
+                nbsalles,
+                current,
+                films,
+                tuple,
+                appreciation,
+                satisfait,
+                0,
+                0);
+    std::cout << tuple.getI();
   }
 }
 
 int main(int argc, const char **argv)
 {
   // Entrée:
+
   int nbsalles = 1;
   const char *nom_fichier = nullptr;
 
